@@ -1,0 +1,22 @@
+
+baseURL: "https://www.anbeda.ch"
+languageCode: "de_CH"
+title: "anbeda.ch - Solar"
+paginate: 5
+theme: "PaperMod"
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+params:
+  env: production
+  title: "anbeda.ch - Solar"
+
+
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/tomdawon"
+    - name: github
+      url: "https://github.com/thomhug"
