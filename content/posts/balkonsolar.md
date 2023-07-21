@@ -42,6 +42,8 @@ Unter Balkonkraftwerk versteht man eine Mini-Solaranlage (Photovoltaikanlage), w
 
 In der Schweiz (das meiste gilt auch für DE und AT) ist es erlaubt, ein Balkonkraftwerk bis 600W Ausgangsleistung (AC/Wechselstrom) ohne Elektriker oder Bewilligungen in Betrieb zu nehmen, d.h. in die Steckdose einstecken (plug&play!). Das einzige administrative, was man tun muss, ist eine Meldung ans Elektrizitätswerk.
 
+![Balkonsolar: Plug & Play](/posts/balkonsolar/balkonsolar1.jpg)
+
 ## Beispielkomponenten
 
 | Zubehör                                                                | Preis             |
