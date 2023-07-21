@@ -4,19 +4,68 @@ languageCode: "de_CH"
 title: "anbeda.ch - Solar"
 paginate: 5
 theme: "PaperMod"
+defaultContentLanguage: "de"
 
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
 
+taxonomies:
+  tag: tags
+
+
 params:
   env: production
   title: "anbeda.ch - Solar"
-
+  defaultTheme: auto # to switch between dark or light according to browser theme
 
   socialIcons:
     - name: twitter
       url: "https://twitter.com/tomdawon"
     - name: github
       url: "https://github.com/thomhug"
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+menu:
+  main:
+#    - identifier: categories
+#      name: categories
+#      url: /categories/
+#      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+#    - identifier: example
+#      name: example.org
+#      url: https://example.org
+#      weight: 30
+
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
