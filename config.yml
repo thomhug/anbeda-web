@@ -1,7 +1,7 @@
 
 baseURL: "https://www.anbeda.ch"
 languageCode: "de_CH"
-title: "anbeda.ch - Solar"
+title: "anbeda AG - rund um Solar"
 paginate: 5
 theme: "PaperMod"
 defaultContentLanguage: "de"
@@ -14,17 +14,30 @@ buildExpired: false
 taxonomies:
   tag: tags
 
+# todo: 
+# - custom footer
+# - images resizen
 
 params:
   env: production
   title: "anbeda.ch - Solar"
   defaultTheme: auto # to switch between dark or light according to browser theme
+  DateFormat: "2. January 2006"
 
+  homeInfoParams:
+    Title: Willkommen auf dem Solar Blog von anbeda AG
+    Content: Photovoltaik ist mein Hobby (Hauptjob ist [Nine](https://nine.ch)) und
+      ich möchte möglichst viele mit dem Solarvirus infizieren! Die anbeda AG dient dazu, um
+      alles zu tun, was man als Einzelperson nicht darf - z.B. Solarpanels vom Grosshändler
+      kaufen! Gerne unterstütze ich euch beim \#Selbstbau mit planen, Material oder Tipps! 
+      Folge mir auf [Twitter](https://twitter.com/tomdawon)!
   socialIcons:
-    - name: twitter
+    - name: "twitter"
       url: "https://twitter.com/tomdawon"
-    - name: github
+    - name: "github"
       url: "https://github.com/thomhug"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/thomas-hug/"
 
   # for search
   # https://fusejs.io/api/options.html
@@ -36,6 +49,12 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
+
+  editPost:
+    URL: "https://github.com/thomhug/anbeda-web/blob/main/content"
+    Text: "Änderungen vorschlagen" # edit text
+    appendFilePath: true # to append file path to Edit link
+
 
 menu:
   main:

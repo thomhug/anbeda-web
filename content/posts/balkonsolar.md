@@ -2,12 +2,9 @@
 title: "Wie funktioniert ein Balkonkraftwerk?"
 date: 2023-07-20T11:30:03+00:00
 description: "Einfache Erklärung wie du zu einem günstigen Preis zu deinem Balkonkraftwerk kommst!"
-# weight: 1
-#aliases: ["/balkonsolar"]
 tags: ["balkonsolar","diy","pvbuddies","selbstbau"]
 categories: ["Solar"]
 author: "Tom"
-# author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
 draft: false
@@ -25,16 +22,12 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
-editPost:
-    URL: "https://github.com/thomhug/anbeda-web/content"
-    Text: "Änderungen vorschlagen" # edit text
-    appendFilePath: true # to append file path to Edit link
+#cover:
+#    image: "<image path/url>" # image path/url
+#    alt: "<alt text>" # alt text
+#    caption: "<text>" # display caption under cover
+#    relative: false # when using page bundles set this to true
+#    hidden: true # only hide on current single page
 ---
 ## Einführung
 
@@ -44,16 +37,19 @@ In der Schweiz (das meiste gilt auch für DE und AT) ist es erlaubt, ein Balkonk
 
 ![Balkonsolar: Plug & Play](/posts/balkonsolar/balkonsolar1.jpg)
 
+{{ $image := .Resources.GetMatch "balkonsolar1.jpg" }}
+<img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
+
 ## Beispielkomponenten
 
 | Zubehör                                                                | Preis             |
 | ---------------------------------------------------------------------- | ----------------- |
 | 2x Solarpanel 405W z.B. JA Solar, Suntech, etc. (1722x1134x30mm, 21kg) | ca. 320.-         |
-| Wechselrichter Hoymiles HM-600                                         | ca. 180.-         |
-| Anschlusskabel 5m mit T13/Schuko                                       | ca. 45.-          |
-| Verschlusskappe BC01 Male                                              | ca. 5.-           |
-| Messung optional z.B myStrom Wifi Switch                               | ca. 40.-          |
-| Befestigungsmaterial - je nach Installationsort                        | ca. 15 - 100.-    |
+| Wechselrichter Hoymiles HM-600 (z.B. von brack.ch)                     | ca. 180.-         |
+| Anschlusskabel 5m mit T13/Schuko (z.B. von brack.ch)                   | ca. 45.-          |
+| Verschlusskappe BC01 Male (z.B. von brack.ch)                          | ca. 5.-           |
+| Messung optional z.B myStrom Wifi Switch (z.B. von swisscom.ch)        | ca. 40.-          |
+| Befestigungsmaterial - je nach Installationsort (z.B. von AliExpress)  | ca. 15 - 100.-    |
 | **Total**                                                              | **565.- bis 690.-** | 
 
 Die total 810W Gleichstromleistung (DC) sind mehr als der maximale Output von 600W. Liefert die Sonne mehr als 600W, riegelt der Wechselrichter ab, was auf der Grafik schön sichtbar ist.
@@ -66,4 +62,7 @@ Je nach Eigenverbrauchsanteil und Einspeisevergütung berechnet sich der Jahrese
 
 Bei Kosten von CHF 600.- würde sich die Anlage innert 3.3 Jahren amortisieren!
 
-
+ 
+{{< center >}}
+{{< tweet user="tomdawon" id="1682253796016025601" >}}
+{{< /center >}} 
