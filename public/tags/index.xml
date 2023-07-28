@@ -1,43 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on anbeda.ch - Solar</title>
+    <title>Tags on anbeda AG - rund um Solar</title>
     <link>https://www.anbeda.ch/tags/</link>
-    <description>Recent content in Tags on anbeda.ch - Solar</description>
+    <description>Recent content in Tags on anbeda AG - rund um Solar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de_CH</language>
-    <lastBuildDate>Fri, 21 Jul 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://www.anbeda.ch/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>first</title>
-      <link>https://www.anbeda.ch/tags/first/</link>
-      <pubDate>Fri, 21 Jul 2023 11:30:03 +0000</pubDate>
-      
-      <guid>https://www.anbeda.ch/tags/first/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pv</title>
-      <link>https://www.anbeda.ch/tags/pv/</link>
-      <pubDate>Fri, 21 Jul 2023 11:30:03 +0000</pubDate>
-      
-      <guid>https://www.anbeda.ch/tags/pv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pvbuddies</title>
-      <link>https://www.anbeda.ch/tags/pvbuddies/</link>
-      <pubDate>Fri, 21 Jul 2023 11:30:03 +0000</pubDate>
-      
-      <guid>https://www.anbeda.ch/tags/pvbuddies/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Fri, 28 Jul 2023 23:00:00 +0200</lastBuildDate><atom:link href="https://www.anbeda.ch/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>balkonsolar</title>
       <link>https://www.anbeda.ch/tags/balkonsolar/</link>
-      <pubDate>Thu, 20 Jul 2023 11:30:03 +0000</pubDate>
+      <pubDate>Fri, 28 Jul 2023 23:00:00 +0200</pubDate>
       
       <guid>https://www.anbeda.ch/tags/balkonsolar/</guid>
       <description></description>
@@ -46,27 +19,18 @@
     <item>
       <title>diy</title>
       <link>https://www.anbeda.ch/tags/diy/</link>
-      <pubDate>Thu, 20 Jul 2023 11:30:03 +0000</pubDate>
+      <pubDate>Fri, 28 Jul 2023 23:00:00 +0200</pubDate>
       
       <guid>https://www.anbeda.ch/tags/diy/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>selbstbau</title>
-      <link>https://www.anbeda.ch/tags/selbstbau/</link>
-      <pubDate>Thu, 20 Jul 2023 11:30:03 +0000</pubDate>
+      <title>pvbuddies</title>
+      <link>https://www.anbeda.ch/tags/pvbuddies/</link>
+      <pubDate>Fri, 28 Jul 2023 23:00:00 +0200</pubDate>
       
-      <guid>https://www.anbeda.ch/tags/selbstbau/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>second</title>
-      <link>https://www.anbeda.ch/tags/second/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://www.anbeda.ch/tags/second/</guid>
+      <guid>https://www.anbeda.ch/tags/pvbuddies/</guid>
       <description></description>
     </item>
     

@@ -1,11 +1,11 @@
 ---
-title: "Mein erstes Selbstbauprojekt"
+title: "Mein erstes PV Selbstbauprojekt"
 date: 2023-07-21T11:30:03+00:00
-tags: ["first", "pv", "pvbuddies"]
+tags: ["selbstbau", "diy", "pvbuddies"]
 author: "Tom"
 showToc: true
 TocOpen: false
-draft: false
+draft: true
 hidemeta: false
 comments: false
 description: "Desc Text."
@@ -29,11 +29,24 @@ cover:
     hidden: true # only hide on current single page
 ---
 
-hallo
+## Einführung
 
-hallo
 
-hallo
+## Schritt 1: Ausmessen und planen
+
+Abklären ob EVU genügend Kapazität hat am Ort. Alle Anträge schon stellen, welche man vor Baubegin einreichen muss.
+
+## Schritt 2: Material bestellen
+
+## Schritt : Bewilligungen
+
+
+## Schritt : Bau
+
+## Schritt : Abnahmen und Kontrollen
+
+## Schritt : Beantragen Subventionen 
+
 
 hallo
 
