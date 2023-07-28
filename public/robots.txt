@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://www.anbeda.ch/sitemap.xml
+Sitemap: https://anbeda-web.e1608f7.deploio.app/sitemap.xml
