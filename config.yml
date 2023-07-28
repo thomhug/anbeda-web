@@ -1,5 +1,6 @@
 
-baseURL: "https://www.anbeda.ch"
+#baseURL: "https://www.anbeda.ch"
+baseURL: "https://anbeda-web.e1608f7.deploio.app/"
 languageCode: "de_CH"
 title: "anbeda AG - rund um Solar"
 paginate: 5
