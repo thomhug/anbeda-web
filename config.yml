@@ -1,6 +1,5 @@
-
-#baseURL: "https://www.anbeda.ch"
-baseURL: "https://anbeda-web.e1608f7.deploio.app/"
+baseURL: "https://www.anbeda.ch"
+#baseURL: "https://anbeda-web.e1608f7.deploio.app/"
 languageCode: "de_CH"
 title: "anbeda AG - rund um Solar"
 paginate: 5
@@ -12,12 +11,15 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
+# todo
+# - img click -> full version
+# - favicon
+
 taxonomies:
   tag: tags
 
 permalinks:
   posts: '/posts/:title/'
-#  posts: '/:2006/:01/:02/:title/'
 
 params:
   env: production
