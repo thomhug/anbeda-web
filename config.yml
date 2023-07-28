@@ -14,9 +14,9 @@ buildExpired: false
 taxonomies:
   tag: tags
 
-#permalinks:
+permalinks:
+  posts: '/posts/:title/'
 #  posts: '/:2006/:01/:02/:title/'
-
 
 params:
   env: production
