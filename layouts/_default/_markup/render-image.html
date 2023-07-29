@@ -31,10 +31,13 @@
 {{ end }}
 
 <figure class="image-caption">
-  <img alt="{{ $.Text }}" srcset="
-    {{ $small.RelPermalink }} 420w,
-    {{ $medium.RelPermalink }} 980w,
-    {{ $large.RelPermalink }} 1200w" sizes="50vw" src="{{ $small.RelPermalink }}" />
+  <img alt="{{ $.Text }}" src="{{ $small.RelPermalink }}"
+    srcset="{{ $small.RelPermalink }} 420w,
+            {{ $medium.RelPermalink }} 980w,
+            {{ $large.RelPermalink }} 1200w" 
+    sizes="(max-width: 900px) 90vw, 
+           (max-width:1100px) 70vw, 
+           50vw" />
   <figcaption>{{ with $.Title | safeHTML }}{{ . }}{{ end }}</figcaption>
 </figure>
 {{- else -}}
