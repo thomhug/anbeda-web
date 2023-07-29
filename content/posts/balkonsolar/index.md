@@ -73,5 +73,9 @@ Je nach Eigenverbrauchsanteil und Einspeisevergütung berechnet sich der Jahrese
 
 Bei Kosten von CHF 600.- würde sich die Anlage innert 3.3 Jahren amortisieren!
 
+Kommentare, Fragen und Anmerkungen zum Post gerne auf Twitter (oder bald X...) in folgendem Thread:
 
+{{< center >}}
+{{< tweet user="tomdawon" id="1685405968077598720" >}}
+{{< /center >}} 
 
