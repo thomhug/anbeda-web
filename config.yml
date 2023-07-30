@@ -1,19 +1,17 @@
 baseURL: "https://www.anbeda.ch"
-#baseURL: "https://anbeda-web.e1608f7.deploio.app/"
 languageCode: "de_CH"
 title: "anbeda AG - rund um Solar"
 paginate: 5
 theme: "PaperMod"
 defaultContentLanguage: "de"
-
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
 
 # todo
-# - img click -> full version
-# - favicon
+# - img click -> full version / oder link parameter
+# - show search in menu
 
 taxonomies:
   tag: tags
@@ -21,12 +19,36 @@ taxonomies:
 permalinks:
   posts: '/posts/:title/'
 
+# not working
+menu:
+  main:
+  - identifier: suche
+    name: Suche
+    url: /suche/
+    weight: 10
+
+# PaperMod Site Variables
+# https://github.com/adityatelange/hugo-PaperMod/wiki/Variables
 params:
   env: production
   title: "anbeda.ch - Solar"
   defaultTheme: auto # to switch between dark or light according to browser theme
   DateFormat: "2. January 2006"
   ShowRssButtonInSectionTermList: true
+  ShowReadingTime: true
+  ShowBreadCrumbs: true
+  author: "Tom" # default :) kann überschrieben werden pro Artikel
+  showToc: true # Inhaltsverzeichnis anzeigen
+  TocOpen: false # Inhaltsverzeichnis per default aufklappen
+  hidemeta: false
+  hideSummary: false
+  comments: false
+  searchHidden: false # Einzelne Seiten von der Suche ausschliessen, default hier nein
+  
+  editPost:
+    URL: "https://github.com/thomhug/anbeda-web/blob/main/content"
+    Text: "Änderungen vorschlagen" # edit text
+    appendFilePath: true # to append file path to Edit link
 
   homeInfoParams:
     Title: Willkommen auf dem Solar Blog von anbeda AG
@@ -57,10 +79,6 @@ params:
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
 
-  editPost:
-    URL: "https://github.com/thomhug/anbeda-web/blob/main/content"
-    Text: "Änderungen vorschlagen" # edit text
-    appendFilePath: true # to append file path to Edit link
 
 module:
   mounts:
