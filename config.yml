@@ -22,10 +22,23 @@ permalinks:
 # not working
 menu:
   main:
-  - identifier: suche
-    name: Suche
-    url: /suche/
-    weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: suche
+      name: Suche
+      url: /suche/
+      weight: 10
+    - identifier: archive
+      name: Archiv
+      url: /archiv/
+      weight: 10
+
+#    - identifier: example
+#      name: example.org
+#      url: https://example.org
+#      weight: 30
 
 # PaperMod Site Variables
 # https://github.com/adityatelange/hugo-PaperMod/wiki/Variables
@@ -79,7 +92,6 @@ params:
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
 
-
 module:
   mounts:
     - source: layouts
@@ -90,21 +102,6 @@ module:
       target: content/docs
     - source: images
       target: assets/images  
-
-menu:
-  main:
-#    - identifier: categories
-#      name: categories
-#      url: /categories/
-#      weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
-      weight: 20
-#    - identifier: example
-#      name: example.org
-#      url: https://example.org
-#      weight: 30
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
