@@ -1,23 +1,11 @@
 ---
 title: "Wie funktioniert ein Balkonkraftwerk?"
-date: 2023-07-28T23:00:00+02:00
 description: "Einfache Erklärung wie du zu einem günstigen Preis zu deinem Balkonkraftwerk kommst!"
+draft: false
+date: 2023-07-28T23:00:00+02:00
 tags: ["balkonsolar","diy","pvbuddies"]
 categories: ["Solar"]
-author: "Tom"
-showToc: true
-TocOpen: false
-draft: false
-hidemeta: false
-comments: false
-canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
-disableShare: false
-disableHLJS: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
+
 ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true

@@ -1,22 +1,11 @@
 ---
-title: "Mein erstes PV Selbstbauprojekt"
-date: 2023-07-21T11:30:03+00:00
-tags: ["selbstbau", "diy", "pvbuddies"]
-author: "Tom"
-showToc: true
-TocOpen: false
+title: "PV Selbstbau - Schritt für Schritt"
+description: "Nach dem Bau von zwei Anlagen mit den jeweiligen Hauseigentümern zusammen findest du hier eine Schritt für Schritt Anleitung, was du beachten musst."
 draft: true
-hidemeta: false
-comments: false
-description: "Desc Text."
-canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
-disableShare: false
-disableHLJS: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
+date: 2023-07-31T11:30:03+02:00
+tags: ["selbstbau", "diy", "pvbuddies"]
+categories: ["Solar"]
+
 ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
