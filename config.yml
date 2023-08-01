@@ -6,12 +6,11 @@ theme: "PaperMod"
 defaultContentLanguage: "de"
 enableRobotsTXT: true
 buildDrafts: false
-buildFuture: false
+buildFuture: true
 buildExpired: false
 
 # todo
 # - img click -> full version / oder link parameter
-# - show search in menu
 
 taxonomies:
   tag: tags
@@ -19,7 +18,6 @@ taxonomies:
 permalinks:
   posts: '/posts/:title/'
 
-# not working
 menu:
   main:
     - identifier: tags
@@ -35,29 +33,29 @@ menu:
       url: /archiv/
       weight: 10
 
-#    - identifier: example
-#      name: example.org
-#      url: https://example.org
-#      weight: 30
-
 # PaperMod Site Variables
 # https://github.com/adityatelange/hugo-PaperMod/wiki/Variables
 params:
   env: production
   title: "anbeda.ch - Solar"
+  keywords: [solar, pv, pvbuddies, balkonsolar, selbstbau, diy]
   defaultTheme: auto # to switch between dark or light according to browser theme
   DateFormat: "2. January 2006"
   ShowRssButtonInSectionTermList: true
   ShowReadingTime: true
   ShowBreadCrumbs: true
   author: "Tom" # default :) kann überschrieben werden pro Artikel
-  showToc: true # Inhaltsverzeichnis anzeigen
-  TocOpen: false # Inhaltsverzeichnis per default aufklappen
+  showtoc: true # Inhaltsverzeichnis anzeigen
+  tocopen: false # Inhaltsverzeichnis per default aufklappen
   hidemeta: false
   hideSummary: false
   comments: false
   searchHidden: false # Einzelne Seiten von der Suche ausschliessen, default hier nein
-  
+  ShowWordCount: true
+  ShowPostNavLinks: true
+  ShowShareButtons: false
+  UseHugoToc: true
+
   editPost:
     URL: "https://github.com/thomhug/anbeda-web/blob/main/content"
     Text: "Änderungen vorschlagen" # edit text

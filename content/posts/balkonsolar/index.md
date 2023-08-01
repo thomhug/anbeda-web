@@ -6,24 +6,24 @@ date: 2023-07-28T23:00:00+02:00
 tags: ["balkonsolar","diy","pvbuddies"]
 categories: ["Solar"]
 
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-#cover:
-#    image: "<image path/url>" # image path/url
-#    alt: "<alt text>" # alt text
-#    caption: "<text>" # display caption under cover
-#    relative: false # when using page bundles set this to true
-#    hidden: true # only hide on current single page
+cover:
+    image: "balkonsolar1a.jpg" # image path/url
+    alt: "<alt text>" # alt text
+    caption: "<text>" # display caption under cover
+    relative: true # when using page bundles set this to true
+    hidden: true # only hide on current single page
 ---
 ## Einführung
 
 Unter Balkonkraftwerk versteht man eine Mini-Solaranlage (Photovoltaikanlage), welche typischerweise aus wenigen Panels, einem Wechselrichter sowie einem Anschlusskabel für die Steckdose besteht.
 
+{{< center >}}
+{{< tweet user="tomdawon" id="1661473112385265664" >}}
+{{< /center >}} 
+
 In der Schweiz (das meiste gilt auch für DE und AT) ist es erlaubt, ein Balkonkraftwerk bis 600W Ausgangsleistung (AC/Wechselstrom) ohne Elektriker oder Bewilligungen in Betrieb zu nehmen, d.h. in die Steckdose einstecken (plug&play!). Das einzige administrative, was man tun muss, ist eine Meldung ans Elektrizitätswerk.
 
-![Balkonsolar: Plug & Play](balkonsolar1.jpg)
+![Balkonsolar: Plug & Play](balkonsolar1a.jpg)
 
 ## Beispielkomponenten
 
