@@ -3,7 +3,7 @@ title: "Zev"
 description: "descr."
 draft: true
 date: 2023-07-30T22:31:44+02:00
-tags: ["balkonsolar","diy","pvbuddies"]
+tags: ["ZEV","Selbstbau","DIY","PVbuddies"]
 categories: ["Solar"]
 cover:
     image: "img.jpg" # image path/url

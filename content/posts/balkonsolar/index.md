@@ -3,7 +3,7 @@ title: "Wie funktioniert ein Balkonkraftwerk?"
 description: "Einfache Erklärung wie du zu einem günstigen Preis zu deinem Balkonkraftwerk kommst!"
 draft: false
 date: 2023-07-28T23:00:00+02:00
-tags: ["balkonsolar","diy","pvbuddies"]
+tags: ["Balkonsolar","DIY","PVbuddies"]
 categories: ["Solar"]
 
 cover:
@@ -55,9 +55,13 @@ Bei Aufständerung gegen Süden kann mit einer jährlichen Energiemenge von 600k
 
 Auf der Grafik sieht man Erträge von einer gegen Süden aufgeständerten Anlage mit etwas Beschattung in den Morgenstunden (siehe auch Grafik Leistungsbegrenzung). Durchschnittlicher Ertrag Juni/Juli war 3.8kWh pro Tag.
 
+![Gegen Süden aufgeständerte Panels](balkonsolar4.jpg)
+
 Je nach Eigenverbrauchsanteil und Einspeisevergütung berechnet sich der Jahresertrag. Bei einem angenommenen, mittleren Ertrag von 20Rp pro kWh und 600kWh Ertrag ergäbe sich ein Ertrag von CHF 180.-/Jahr.
 
-![Gegen Süden aufgeständerte Panels](balkonsolar4.jpg)
+In der Schweiz sind EVU's verpflichtet, Solarstrom abzunehmen und zu vergüten (Einspeisevergütung). Quelle: [https://pubdb.bfe.admin.ch/de/publication/download/11259](https://pubdb.bfe.admin.ch/de/publication/download/11259)
+
+![Verpflichtung der EVUs Solarstrom abzunehmen und zu vergüten](balkonsolar5.jpg)
 
 Bei Kosten von CHF 600.- würde sich die Anlage innert 3.3 Jahren amortisieren!
 

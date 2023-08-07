@@ -3,7 +3,7 @@ title: "Amortisation"
 description: "descr."
 draft: true
 date: 2023-07-30T21:50:18+02:00
-tags: ["balkonsolar","diy","pvbuddies"]
+tags: ["Balkonsolar","DIY","PVbuddies"]
 categories: ["Solar"]
 cover:
     image: "abrechnung-q2-2023.png" # image path/url

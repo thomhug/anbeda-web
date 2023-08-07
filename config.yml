@@ -39,6 +39,7 @@ params:
   env: production
   title: "anbeda.ch - Solar"
   keywords: [solar, pv, pvbuddies, balkonsolar, selbstbau, diy]
+  description: "Solar Blog mit Erfahrungen rund um Photovoltaik Selbstbau, Balkonsolar, Visualisierungen, Berechnungen, Energiesparen und was man noch alles so cooles tun kann :)"
   defaultTheme: auto # to switch between dark or light according to browser theme
   DateFormat: "2. January 2006"
   ShowRssButtonInSectionTermList: true
