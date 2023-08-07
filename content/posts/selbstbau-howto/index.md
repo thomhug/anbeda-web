@@ -3,7 +3,7 @@ title: "PV Selbstbau - Schritt für Schritt"
 description: "Nach dem Bau von zwei Anlagen mit den jeweiligen Hauseigentümern zusammen findest du hier eine Schritt für Schritt Anleitung, was du beachten musst."
 draft: true
 date: 2023-07-30T11:30:03+02:00
-tags: ["selbstbau", "diy", "pvbuddies"]
+tags: ["Selbstbau","DIY","PVbuddies"]
 categories: ["Solar"]
 cover:
     image: "selbstbau1.jpg" # image path/url
