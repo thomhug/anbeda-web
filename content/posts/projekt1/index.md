@@ -313,5 +313,5 @@ Coole Sache, oder?
 Kommentare, Fragen und Anmerkungen zum Post gerne auf X (ex-Twitter) in folgendem Thread:
 
 {{< center >}}
-{{< tweet user="tomdawon" id="1685405968077598720" >}}
+{{< tweet user="tomdawon" id="1688669091203039232" >}}
 {{< /center >}}
