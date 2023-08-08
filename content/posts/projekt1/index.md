@@ -201,9 +201,9 @@ Stand 6.8.2023 ist die folgende Liste noch nicht 100% komplett. Die Rechnung der
 | **Subtotal**                                              |        |             | **Fr. 6'940.05** |
 |                                                           |        |             |                  |
 | **Unterkonstruktion**                                     |        |             |                  |
-| BasicRail 4.40                                            | 17     | 26.78       | 455.19           |
-| Dome 6.10 Peak                                            | 54     | 4.23        | 228.42           |
-| Dome 6.10 SD                                              | 54     | 1.81        | 97.74            |
+| K2 BasicRail 4.40m                                        | 17     | 26.78       | 455.19           |
+| K2 Dome 6.10 Peak                                         | 54     | 4.23        | 228.42           |
+| K2 Dome 6.10 SD                                           | 54     | 1.81        | 97.74            |
 | MC Set DomeClamp 30-50mm                                  | 80     | 2.05        | 163.60           |
 | EC Set DomeClamp Black 30-50                              | 60     | 2.01        | 120.80           |
 | SN M8 SS (SU=250)                                         | 1      | 177.50      | 177.50           |
@@ -216,7 +216,7 @@ Stand 6.8.2023 ist die folgende Liste noch nicht 100% komplett. Die Rechnung der
 |                                                           |        |             |                  |
 | **Wechselrichter**                                        |        |             |                  |
 | Huawei SUN2000-17KTL-M2 / 27A                             | 1      | 1'963.50    | 1'963.50         |
-| SMART DONGLE-WLAN-FE                                      | 1      | 49.75       | 49.75            |
+| Smart Dongle-Wlan-FE                                      | 1      | 49.75       | 49.75            |
 | Smart Power Sensor DTSU666-H 100A/40mA (3ph)              | 1      | 130.20      | 130.20           |
 | Installationskabel FE0 5×6mm² 10m                         | 1      | 36.40       | 36.40            |
 | Kabelkanäle 2m                                            | 2      | 16.20       | 32.40            |
@@ -251,7 +251,7 @@ Stand 6.8.2023 ist die folgende Liste noch nicht 100% komplett. Die Rechnung der
 | **Subtotal**                                              |        |             | **Fr. 771.54**   |
 |                                                           |        |             |                  |
 | **Handwerker / Experten**                                 |        |             |                  |
-| Elektriker                                                | 1      | 1'851.85    | 1'851.85         |
+| Elektriker (Anteil Solar)                                 | 1      | 1'851.85    | 1'851.85         |
 | DC Abnahme (Schätzung)                                    | 1      | 870.00      | 870.00           |
 | Schlusskontrolle (Schätzung)                              | 1      | 350.00      | 350.00           |
 | **Subtotal**                                              |        |             | **Fr. 3'071.85** |
@@ -271,7 +271,7 @@ Stand 6.8.2023 ist die folgende Liste noch nicht 100% komplett. Die Rechnung der
 |                                                           |        |             |                  |
 | **Testmaterial / Falschbestellung / nicht verwendet**     |        |             |                  |
 | Einziehdraht Nylon m.Feder                                | 1      | 40.90       | 40.90            |
-| MAT S SUPPORT PAD (SU=50)                                 | 1      | 161.50      | 161.50           |
+| Mat S Support Pad (SU=50)                                 | 1      | 161.50      | 161.50           |
 | K2 Dome Mat-S Tool                                        | 3      | 1.55        | 4.65             |
 | PV-Steckverbinder Weidmüller                              | 4      | 8.10        | 32.40            |
 | Smart Meter SDM630 Modbus Mid 100A                        | 1      | 119.78      | 119.78           |
@@ -298,7 +298,7 @@ Stand 6.8.2023 ist die folgende Liste noch nicht 100% komplett. Die Rechnung der
 | Smart Meter SDM630 Modbus Mid 100A MCT für Hauptzuleitung | 1      | 205.20      | 205.20           |
 | Raspberry Pi 4G                                           | 1      | 135.38      | 135.38           |
 | Netgear Switch 5 Port                                     | 1      | 25.40       | 25.40            |
-| Elektriker Anteil ZEV                                     | 1      | 1007.00     | 1007.00          |
+| Elektriker (Anteil ZEV)                                   | 1      | 1007.00     | 1007.00          |
 | **Subtotal**                                              |        |             | **Fr. 1'849.80** |
 | **Subtotal inkl. MWST**                                   |        |             | **Fr. 1'992.23** |
 
