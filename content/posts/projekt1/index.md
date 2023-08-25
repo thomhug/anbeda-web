@@ -317,4 +317,4 @@ Kommentare, Fragen und Anmerkungen zum Post gerne auf X (ex-Twitter) in folgende
 {{< tweet user="tomdawon" id="1688669091203039232" >}}
 {{< /center >}}
 
-Update 25.8.: Definitive Rechnung DC-Abnahme, höhere Schätzung DC-Kontrolle. Total + ca. 600.-
+[Update 25.8.](https://github.com/thomhug/anbeda-web/commit/f41fff2d9d874b3e37ee15655942f03fa3ceeb85): Definitive Rechnung DC-Abnahme, höhere Schätzung DC-Kontrolle. Total + ca. 600.-
