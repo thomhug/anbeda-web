@@ -252,9 +252,9 @@ Stand 6.8.2023 ist die folgende Liste noch nicht 100% komplett. Die Rechnung der
 |                                                           |        |             |                  |
 | **Handwerker / Experten**                                 |        |             |                  |
 | Elektriker (Anteil Solar)                                 | 1      | 1'851.85    | 1'851.85         |
-| DC Abnahme (Schätzung)                                    | 1      | 870.00      | 870.00           |
-| Schlusskontrolle (Schätzung)                              | 1      | 350.00      | 350.00           |
-| **Subtotal**                                              |        |             | **Fr. 3'071.85** |
+| DC Abnahme (Schätzung)                                    | 1      | 1'177.25    | 1'177.25         |
+| Schlusskontrolle (Schätzung)                              | 1      | 600.00      | 600.00           |
+| **Subtotal**                                              |        |             | **Fr. 3'629.10** |
 |                                                           |        |             |                  |
 | **Balkonsolar Erweiterung**                               |        |             |                  |
 | TSM-430NEG9R.28 Vertex S+                                 | 2      | 139.75      | 279.50           |
@@ -280,16 +280,17 @@ Stand 6.8.2023 ist die folgende Liste noch nicht 100% komplett. Die Rechnung der
 | Sechskantmutter M8 Ø0.8mm DIN                             | 200    | 0.07        | 14.30            |
 | **Subtotal**                                              |        |             | **Fr. 402.93**   |
 |                                                           |        |             |                  |
-| **Total**                                                 |        |             | **Fr. 16'044.12** |
-| **Total Ausgaben inkl. MWST**                             |        |             | **Fr. 17'279.51** |
+| **Total**                                                 |        |             | **Fr. 16'601.37** |
+| **Total Ausgaben inkl. MWST**                             |        |             | **Fr. 17'879.67** |
+| **Total Ausgaben inkl. MWST pro kWp**                     | 19.78  |             | **Fr. 903.93** |
 |                                                           |        |             |                  |
 | **Subventionen**                                          |        |             |                  |
 | Pronovo Bund (Provisorisch)                               | 1      |             | \-Fr. 7'912.00   |
 | Gemeinde Kt. Zug (Provisorisch)                           | 1      |             | \-Fr. 3'956.00   |
 | **Subtotal**                                              |        |             | **\-Fr. 11'868.00** |
 |                                                           |        |             |                  |
-| **Netto Investition inkl. MWST**                          |        |             | **Fr. 5'411.51** |
-| **Netto Investition inkl. MWST pro kWp**                  | 19.35  |             | **Fr. 279.66**   |
+| **Netto Investition inkl. MWST**                          |        |             | **Fr. 6'011.67** |
+| **Netto Investition inkl. MWST pro kWp**                  | 19.78  |             | **Fr. 303.93**   |
 |                                                           |        |             |                  |
 | **Erweiterung ZEV (sep. Artikel folgt)**                  |        |             |                  |
 | Smart Power Sensor DTSU666-H 100A/40mA (3ph)              | 1      | -130.20     | -130.20          |
@@ -304,7 +305,7 @@ Stand 6.8.2023 ist die folgende Liste noch nicht 100% komplett. Die Rechnung der
 
 ## Amortisation
 
-Die Anlage produziert eine Energiemenge von ca. 19'000 kWh pro Jahr. Davon können bei einem Verbrauch von ca. 8'000 kWh (eine Wohnung) ca. 3'200 kWh direkt verbraucht werden. Somit erhält der Eigentümer für die restlichen, eingespeisten 15'800 kWh bei einem Einspeisetarif von 18.9 RP jährlich eine Einspeisevergütung von CHF 2'984.39 und spart bei 3'200kWh Eigenverbrauch bei einem durchschnittlichen Tarif von 31.1 RP CHF 996.57. Die jährliche Amortisation der Anlage beträgt somit CHF 3'980.97 und die Anlage würde sich innerhalb von 1.36 Jahren (!) bereits amortisieren!
+Die Anlage produziert eine Energiemenge von ca. 19'000 kWh pro Jahr. Davon können bei einem Verbrauch von ca. 8'000 kWh (eine Wohnung) ca. 3'200 kWh direkt verbraucht werden. Somit erhält der Eigentümer für die restlichen, eingespeisten 15'800 kWh bei einem Einspeisetarif von 18.9 RP jährlich eine Einspeisevergütung von CHF 2'984.39 und spart bei 3'200kWh Eigenverbrauch bei einem durchschnittlichen Tarif von 31.1 RP CHF 996.57. Die jährliche Amortisation der Anlage beträgt somit CHF 3'980.97 und die Anlage würde sich innerhalb von 1.51 Jahren (!) bereits amortisieren!
 
 Sobald ZEV in Betrieb geht, kann der Besitzer seinem Mieter in der zweiten Wohnung sowie an Allgemeinstrom zusätzliche, rund 5'000kWh verkaufen. Der Verkauf erfolgt zu 80% vom normalen Einkaufspreis, also 24.9 RP. Statt der Einspeisung von 18.9 RP fliessen so zusätzliche 6 RP pro kWh in die Kasse des Eigentümers, was jährlich CHF 301.29 entspricht. Die ZEV Erweiterung amortisiert sich so in 6.61 Jahren.
 
@@ -315,3 +316,5 @@ Kommentare, Fragen und Anmerkungen zum Post gerne auf X (ex-Twitter) in folgende
 {{< center >}}
 {{< tweet user="tomdawon" id="1688669091203039232" >}}
 {{< /center >}}
+
+Update 25.8.: Definitive Rechnung DC-Abnahme, höhere Schätzung DC-Kontrolle. Total + ca. 600.-
