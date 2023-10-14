@@ -1,5 +1,6 @@
 ---
 title: "PV Selbstbau - Schritt für Schritt"
+url: "/posts/pv-selbstbau-schritt-fuer-schritt"
 description: "Nach dem Bau von drei Photovoltaik Anlagen mit den jeweiligen Hauseigentümern findet ihr hier eine Schritt für Schritt Anleitung, was alles zu beachten ist wenn ihr eure PV Anlage selber bauen möchtet."
 draft: false
 date: 2023-10-14T11:30:03+02:00
