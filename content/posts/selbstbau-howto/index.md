@@ -90,6 +90,8 @@ Benötigst du Hilfe bei der Materialbestellung- und Auswahl? Gerne unterstütze 
 
 Hast du schon Kollegen organisiert für den Bau? Jetzt wäre der Moment, denn nach der Bestellung weisst du, wann das Material ankommen wird! Sei dir bewusst, dass du als Hauseigentümer verantwortlich bist, was auf deinem Dach passiert. Organisiere z.B. Absturzsicherungen! Meistens sind entsprechende Vorrichtungen bereits vorhanden auf dem Dach (und führen zu mindestens einem Modul weniger :( )
 
+Danke an X User [Michi_k](https://twitter.com/mick__k/status/1713410565723320643) für folgenden Link: [Arbeiten auf Dächern – so bleiben Sie sicher oben (Absturzsicherung)](https://www.suva.ch/de-ch/download/dokument/arbeiten-auf-daechern--so-bleiben-sie-sicher-oben/arbeiten-auf-daechern--so-bleiben-sie-sicher-oben--44066.D)
+
 ## Schritt 9: Bau - Wechselrichter, Kabelkanäle, Unterkonstruktion
 
 Sobald das Material vorhanden ist, würde ich je nach Wetter mit der Montage des Wechselrichters und Kabelkanälen (üblicherweise 60x40mm - AC und DC nie im gleichen Kanal, nur kreuzen erlaubt) im Keller starten oder mit dem Einziehen der Solarkabel und dem Erdungskabel vom Dach in den Keller (Achtung: Kabel anschreiben!). 
@@ -138,5 +140,11 @@ Im Fall der Schweiz ist das die Pronovo, bei welcher Ihr nun den Antrag für die
 
 Darüber könnte ich nun auch wieder einen Roman schreiben. Wie überall gibt es hier verschiedene Varianten: Die App des Herstellers des Wechselrichters, ein kommerzielles Tool, welches mit mehreren Devices sprechen kann wie der Solarmanager - gegründet von zwei Studienkollegen von mir! - oder die DIY Variante, welche ich gewählt habe: Raspberry PI, Prometheus und Grafana. Vieles davon findet ihr in meinem [GitHub Repo](https://github.com/thomhug/pv).
 
-
 Alles klar? Wahrscheinlich noch nicht? Schreibt mir eure Fragen auf Social Media, ich versuche sie zu beantworten und versuche den Beitrag laufend zu verbessern!
+
+[Beitrag auf Bluesky](https://bsky.app/profile/tomdawon.bsky.social/post/3kbqnhnqqqj2t)
+[Beitrag auf LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7119091706439811072/)
+
+{{< center >}}
+{{< tweet user="tomdawon" id="1713323985914540439" >}}
+{{< /center >}}
