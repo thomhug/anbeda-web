@@ -1,2 +1,4 @@
 [submodule "."]
 	branch = master
+[submodule "themes/PaperMod"]
+	branch = master
