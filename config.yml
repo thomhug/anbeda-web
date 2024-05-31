@@ -79,6 +79,8 @@ params:
       url: "https://www.linkedin.com/in/thomas-hug/"
     - name: "bluesky"
       url: "https://bsky.app/profile/tomdawon.bsky.social"
+    - name: "youtube"
+      url: "https://youtube.com/@tomdawon"
     - name: "rss"
       url: "/index.xml"
 
