@@ -13,8 +13,8 @@ COPY . .
 RUN hugo 
 
 # Stage 2
-# FROM nginx:1.27-alpine
-FROM nginxinc/nginx-unprivileged:latest
+FROM nginx:1.27-alpine
+# FROM nginxinc/nginx-unprivileged:latest
 
 # Set workdir to the NGINX default dir.
 WORKDIR /usr/share/nginx/html
