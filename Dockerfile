@@ -13,18 +13,13 @@ COPY . .
 RUN hugo 
 
 # Stage 2
-FROM nginx:1.25-alpine
+FROM nginx:1.27-alpine
 
 # Set workdir to the NGINX default dir.
 WORKDIR /usr/share/nginx/html
 
 # Copy HTML from previous build into the Workdir.
 COPY --from=build /opt/HugoApp/public .
-
-# Test 
-RUN chown -R nginx:nginx /var/log/nginx
-RUN chmod 777 /var/log/nginx/error.log
-RUN ls -l /var/log/nginx/
 
 # Expose port 8080
 EXPOSE 8080/tcp
