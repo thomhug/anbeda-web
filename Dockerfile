@@ -24,6 +24,7 @@ COPY --from=build /opt/HugoApp/public .
 # Test 
 RUN chown -R nginx:nginx /var/log/nginx
 RUN chmod 777 /var/log/nginx/error.log
+RUN ls -l /var/log/nginx/
 
 # Expose port 8080
 EXPOSE 8080/tcp
