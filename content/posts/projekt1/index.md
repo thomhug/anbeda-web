@@ -252,8 +252,8 @@ Stand 6.8.2023 ist die folgende Liste noch nicht 100% komplett. Die Rechnung der
 |                                                           |        |             |                  |
 | **Handwerker / Experten**                                 |        |             |                  |
 | Elektriker (Anteil Solar)                                 | 1      | 1'851.85    | 1'851.85         |
-| DC Abnahme (Schätzung)                                    | 1      | 1'177.25    | 1'177.25         |
-| Schlusskontrolle (Schätzung)                              | 1      | 600.00      | 600.00           |
+| DC Abnahme                                                | 1      | 1'177.25    | 1'177.25         |
+| Schlusskontrolle                                          | 1      | 600.00      | 600.00           |
 | **Subtotal**                                              |        |             | **Fr. 3'629.10** |
 |                                                           |        |             |                  |
 | **Balkonsolar Erweiterung**                               |        |             |                  |
@@ -285,8 +285,8 @@ Stand 6.8.2023 ist die folgende Liste noch nicht 100% komplett. Die Rechnung der
 | **Total Ausgaben inkl. MWST pro kWp**                     | 19.78  |             | **Fr. 903.93** |
 |                                                           |        |             |                  |
 | **Subventionen**                                          |        |             |                  |
-| Pronovo Bund (Provisorisch)                               | 1      |             | \-Fr. 7'912.00   |
-| Gemeinde Kt. Zug (Provisorisch)                           | 1      |             | \-Fr. 3'956.00   |
+| Pronovo Bund                                              | 1      |             | \-Fr. 7'912.00   |
+| Gemeinde Kt. Zug / Gemeinde Cham                          | 1      |             | \-Fr. 3'956.00   |
 | **Subtotal**                                              |        |             | **\-Fr. 11'868.00** |
 |                                                           |        |             |                  |
 | **Netto Investition inkl. MWST**                          |        |             | **Fr. 6'011.67** |
@@ -317,4 +317,18 @@ Kommentare, Fragen und Anmerkungen zum Post gerne auf X (ex-Twitter) in folgende
 {{< tweet user="tomdawon" id="1688669091203039232" >}}
 {{< /center >}}
 
-[Update 25.8.](https://github.com/thomhug/anbeda-web/commit/f41fff2d9d874b3e37ee15655942f03fa3ceeb85): Definitive Rechnung DC-Abnahme, höhere Schätzung DC-Kontrolle. Total + ca. 600.-
+[Update 25.08.2023](https://github.com/thomhug/anbeda-web/commit/f41fff2d9d874b3e37ee15655942f03fa3ceeb85): Definitive Rechnung DC-Abnahme, höhere Schätzung DC-Kontrolle. Total + ca. 600.-
+
+[Update 04.01.2025](https://github.com/thomhug/anbeda-web/commit/): Effektive Amortisation
+
+## Effektive Amortisation
+
+Inbetriebnahme 20.07.2023
+
+|            | Einspeisung | Vergütung | Produktion | Eigenverbr. | Einsparung |     Total |
+|------------|------------:|----------:|-----------:|------------:|-----------:|----------:|
+| **2023**   |   6'654 kWh | CHF 1'280 |  7'724 kWh |   1'070 kWh |    CHF 342 | CHF 1'622 |
+| **2024**   |  12'324 kWh | CHF 2'576 | 16'630 kWh |   4'306 kWh |  CHF 1'570 | CHF 4'145 |
+| **Summe**  |  18'978 kWh | CHF 3'855 | 24'354 kWh |   5'376 kWh |  CHF 1'912 | CHF 5'767 |
+| **Invest** |             |           |            |             |            | CHF 6'012 |
+| **Rest**   |             |           |            |             |            |   CHF 245 |
