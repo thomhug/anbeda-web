@@ -31,6 +31,7 @@
 {{ end }}
 
 <figure class="image-caption">
+  {{ if and $small $medium $large }}
   <img alt="{{ $.Text }}" src="{{ $small.RelPermalink }}"
     srcset="{{ $small.RelPermalink }} 420w,
             {{ $medium.RelPermalink }} 980w,
@@ -38,6 +39,9 @@
     sizes="(max-width: 900px) 90vw, 
            (max-width:1100px) 70vw, 
            50vw" />
+  {{ else }}
+    <img alt="{{ $.Text }}" src="{{ $img.RelPermalink | safeURL }}" />
+  {{ end }}
   <figcaption>{{ with $.Title | safeHTML }}{{ . }}{{ end }}</figcaption>
 </figure>
 {{- else -}}
