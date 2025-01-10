@@ -1,7 +1,8 @@
 baseURL: "https://www.anbeda.ch"
 languageCode: "de_CH"
 title: "anbeda AG - rund um Solar"
-paginate: 5
+pagination: 
+  pagerSize: 5
 theme: "PaperMod"
 defaultContentLanguage: "de"
 enableRobotsTXT: true
