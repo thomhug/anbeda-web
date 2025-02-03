@@ -11,7 +11,7 @@ cover:
     alt: "PV Selbstbau - Schritt für Schritt" # alt text
     caption: "PV Selbstbau - Schritt für Schritt" # display caption under cover
     relative: true # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 ---
 
 ## Einführung
@@ -45,6 +45,8 @@ Am Schluss könnt ihr ein schönes PDF erstellen lassen mit allen Infos inkl. Be
 Falls an einem Ort ein Hindernis im Weg ist, löscht K2 immer zwei Module weg. In der Praxis ist es auch möglich, nur ein einzelnes Modul wegzulassen. Dafür benötigt man die gleichen Teile der Unterkonstruktion mit Ausnahme der Klemmen. Da brauchts dann statt 4x MC (Mittelklemme) einfach 4x EC (Endklemme). Ich bestelle mir da jeweils noch einen Windbreaker Short von S-Dome, damit die offene D-Dome Hälfte vor Wind geschützt bleibt. Die ganze Statikberechnung von K2 ist dadurch natürlich ungültig und ihr sollt wissen was ihr tut!
 
 Mit der Anzahl Module mal die Leistung (aktuell im Oktober 2023 sind 440W die am meisten erhältlichen Panels) bekommt ihr die DC-Leistung, z.B. 20x 440 Wp = 8.8 kWp.
+
+{{< youtube 3aNqaeIkUlo >}}
 
 ## Schritt 3: Bewilligung/Bauanzeige Gemeinde
 
@@ -90,7 +92,7 @@ Benötigst du Hilfe bei der Materialbestellung- und Auswahl? Gerne unterstütze 
 
 Hast du schon Kollegen organisiert für den Bau? Jetzt wäre der Moment, denn nach der Bestellung weisst du, wann das Material ankommen wird! Sei dir bewusst, dass du als Hauseigentümer verantwortlich bist, was auf deinem Dach passiert. Organisiere z.B. Absturzsicherungen! Meistens sind entsprechende Vorrichtungen bereits vorhanden auf dem Dach (und führen zu mindestens einem Modul weniger :( )
 
-Danke an X User [Michi_k](https://twitter.com/mick__k/status/1713410565723320643) für folgenden Link: [Arbeiten auf Dächern – so bleiben Sie sicher oben (Absturzsicherung)](https://www.suva.ch/de-ch/download/dokument/arbeiten-auf-daechern--so-bleiben-sie-sicher-oben/arbeiten-auf-daechern--so-bleiben-sie-sicher-oben--44066.D)
+Danke an X User [Michi_k](https://x.com/mick__k/status/1713410565723320643) für folgenden Link: [Arbeiten auf Dächern – so bleiben Sie sicher oben (Absturzsicherung)](https://www.suva.ch/de-ch/download/dokument/arbeiten-auf-daechern--so-bleiben-sie-sicher-oben/arbeiten-auf-daechern--so-bleiben-sie-sicher-oben--44066.D)
 
 ## Schritt 9: Bau - Wechselrichter, Kabelkanäle, Unterkonstruktion
 
@@ -146,5 +148,5 @@ Alles klar? Wahrscheinlich noch nicht? Schreibt mir eure Fragen auf Social Media
 [Beitrag auf LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7119091706439811072/)
 
 {{< center >}}
-{{< tweet user="tomdawon" id="1713323985914540439" >}}
+{{< x user="tomdawon" id="1713323985914540439" >}}
 {{< /center >}}
