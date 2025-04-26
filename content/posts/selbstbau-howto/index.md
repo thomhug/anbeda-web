@@ -148,5 +148,5 @@ Alles klar? Wahrscheinlich noch nicht? Schreibt mir eure Fragen auf Social Media
 [Beitrag auf LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7119091706439811072/)
 
 {{< center >}}
-{{< tweet user="tomdawon" id="1713323985914540439" >}}
+{{< x user="tomdawon" id="1713323985914540439" >}}
 {{< /center >}}
