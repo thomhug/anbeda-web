@@ -1,5 +1,5 @@
 # Stage 1
-FROM alpine:latest AS build
+FROM alpine:edge AS build
 
 # Install the Hugo go app.
 RUN apk add --no-cache hugo
