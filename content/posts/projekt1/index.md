@@ -90,13 +90,13 @@ Was noch fehlte, waren die Steine um die Konstruktion zu beschweren. Dankenderwe
 Endlich kam die Lieferung am 23.6.!
 
 {{< center >}}
-{{< tweet user="tomdawon" id="1672171699897348097" >}}
+{{< x user="tomdawon" id="1672171699897348097" >}}
 {{< /center >}}
 
 Auch die Steinplatten hatte der Nachbar organisiert:
 
 {{< center >}}
-{{< tweet user="tomdawon" id="1672553192570212353" >}}
+{{< x user="tomdawon" id="1672553192570212353" >}}
 {{< /center >}}
 
 Noch ausstehend war allerdings die Bewilligung von der Gemeinde. Wir durften also nichts mahen auf dem Dach und wollten auch kein Risiko eingehen - insbesondere wenn man Behördenmitglieder als Nachbarn hat! :) Gegen die Montage vom Wechselrichter kann aber niemand etwas sagen, also hat er den schon mal montiert.
@@ -106,13 +106,13 @@ Noch ausstehend war allerdings die Bewilligung von der Gemeinde. Wir durften als
 Diese frohe Botschaft musste ich natürlich auch teilen!
 
 {{< center >}}
-{{< tweet user="tomdawon" id="1674137278954852377" >}}
+{{< x user="tomdawon" id="1674137278954852377" >}}
 {{< /center >}}
 
 Dankenderweise kam dann auch noch die Bewilligung der Gemeinde und der weiteren Umsetzung stand nichts mehr im Wege!
 
 {{< center >}}
-{{< tweet user="tomdawon" id="1674139646735929360" >}}
+{{< x user="tomdawon" id="1674139646735929360" >}}
 {{< /center >}}
 
 ## Bau
@@ -120,55 +120,55 @@ Dankenderweise kam dann auch noch die Bewilligung der Gemeinde und der weiteren 
 Am 30.6. kam bereits der Kran!
 
 {{< center >}}
-{{< tweet user="tomdawon" id="1674875255934918659" >}}
+{{< x user="tomdawon" id="1674875255934918659" >}}
 {{< /center >}}
 
 Und einen Tag später hatten wir schon 14/44 Module montiert.
 
 {{< center >}}
-{{< tweet user="tomdawon" id="1675013268807581698" >}}
+{{< x user="tomdawon" id="1675013268807581698" >}}
 {{< /center >}}
 
 Am zweiten Tag waren 28/44 Module montiert.
 
 {{< center >}}
-{{< tweet user="tomdawon" id="1675150541767286788" >}}
+{{< x user="tomdawon" id="1675150541767286788" >}}
 {{< /center >}}
 
 Am zweiten Tag haben wir noch gemerkt, dass wir die vier Optimizer rund um den kleinen Kamin vergessen hatten ...
 
 {{< center >}}
-{{< tweet user="tomdawon" id="1675735367163494400" >}}
+{{< x user="tomdawon" id="1675735367163494400" >}}
 {{< /center >}}
 
 Nach dem dritten Tag waren fast alle Module (40/44) montiert.
 
 {{< center >}}
-{{< tweet user="tomdawon" id="1675976646631776256" >}}
+{{< x user="tomdawon" id="1675976646631776256" >}}
 {{< /center >}}
 
 Alle Versuche, das bestehende Rohr vom Dach in die Garage zum Wechselrichter durchzustossen, sind gescheitert. Danke nochmals an die vielen Tipps auf X! Erst der Elektriker hats dann mit seiner Profi-Saite im ersten Anlauf geschafft!
 
 {{< center >}}
-{{< tweet user="tomdawon" id="1677358294036357123" >}}
+{{< x user="tomdawon" id="1677358294036357123" >}}
 {{< /center >}}
 
 Somit konnten wir am 8.7. das Dach fertig machen! Leider hat sich der Elektriker entschieden, den DC Teil nicht zu machen. Da ich das nicht selber machen darf, mussten wir einen Solarbauer organisieren, welcher erst am 17.7. Zeit hatte, also nochmals warten ...
 
 {{< center >}}
-{{< tweet user="tomdawon" id="1677671455327150080" >}}
+{{< x user="tomdawon" id="1677671455327150080" >}}
 {{< /center >}}
 
 Am 17.7. hat alles mit dem DC Teil alles geklappt und wir konnten die Anlage erfolgreich testen. Da allerdings die Bewilligung der Installationsanzeige vom Elektriker vom EVU noch nicht eingetroffen ist, mussten wir die Anlage wieder ausschalten!
 
 {{< center >}}
-{{< tweet user="tomdawon" id="1681024971403849729" >}}
+{{< x user="tomdawon" id="1681024971403849729" >}}
 {{< /center >}}
 
 Erst am 20.7. war das letzte Dokument auch noch eingetroffen und wir durften endlich einschalten!
 
 {{< center >}}
-{{< tweet user="tomdawon" id="1681889200973529089" >}}
+{{< x user="tomdawon" id="1681889200973529089" >}}
 {{< /center >}}
 
 Ein super Gefühl, wenn man eine selber gebaute Anlage sieht, wie sie >15kW einspeist!
@@ -314,7 +314,7 @@ Coole Sache, oder?
 Kommentare, Fragen und Anmerkungen zum Post gerne auf X (ex-Twitter) in folgendem Thread:
 
 {{< center >}}
-{{< tweet user="tomdawon" id="1688669091203039232" >}}
+{{< x user="tomdawon" id="1688669091203039232" >}}
 {{< /center >}}
 
 [Update 25.08.2023](https://github.com/thomhug/anbeda-web/commit/f41fff2d9d874b3e37ee15655942f03fa3ceeb85): Definitive Rechnung DC-Abnahme, höhere Schätzung DC-Kontrolle. Total + ca. 600.-
