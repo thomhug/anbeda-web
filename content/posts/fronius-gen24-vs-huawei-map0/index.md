@@ -76,6 +76,7 @@ Produktseite: [Fronius Symo GEN24 Plus](https://www.fronius.com/de-ch/switzerlan
 | AC Leistung                               | 5 kW                                        | 5 kW                             |
 | **Speicher**                              |                                             |                                  |
 | Speicher                                  | BYD B-BOX Premium HVM 22.1 (22.08 kWh)      | Huawei LUNA2000-21-S1 (20.7 kWh) |
+| Max. Lade- und Entladeleistung            | 20.5 kW (begrenzt durch WR 11.68 kW)        | 10.5 kW                          |
 | Abmessungen                               | 2160 x 585 x 298 mm                         | 1230 x 590 x 255 mm              |
 | Gewicht                                   | 319 kg                                      | 216 kg                           |
 | IP                                        | IP55                                        | IP66                             |
