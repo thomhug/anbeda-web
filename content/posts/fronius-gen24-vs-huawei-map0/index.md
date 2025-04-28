@@ -39,7 +39,7 @@ Produktseite: [Fronius Symo GEN24 Plus](https://www.fronius.com/de-ch/switzerlan
 - Feste Frequenz: 50 Hz im Inselbetrieb
 - Kompatibel mit Huawei LUNA2000-S1 Speicher
 - Mehrere MAP0 im Backupbetrieb möglich (seit SmartGuard 63A T0)
-- Extrem schnelle Umschaltung (<10 ms)
+- Extrem schnelle Umschaltung (<20 ms)
 - Updates über FusionSolar-App (nur mit Installateurszugang)
 
 [Huawei SUN2000-12K-MAP0 Wechselrichter](https://solar.huawei.com/ch/professionals/all-products/SUN2000-5-12K-MAP0/specs)
