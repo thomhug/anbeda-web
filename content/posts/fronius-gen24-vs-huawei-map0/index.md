@@ -25,7 +25,7 @@ Die Anforderungen an moderne Photovoltaik-Systeme steigen: Notstromversorgung, P
 - 3-phasiger Notstrom (PV Point & Full Backup mit Enwitec)
 - Dynamische Frequenzregelung (50–53 Hz)
 - PV-Nachladung im Inselbetrieb
-- Kompatibel mit BYD HVS/HVM, LG RESU Flex
+- Kompatibel mit BYD HVS/HVM, LG Flex, Fronius Reserva (verfügbar ab Mai 2025)
 - Open source-freundlich (Modbus, API)
 - Firmware-Updates über Solar.web (sehr einfach)
 
@@ -49,7 +49,7 @@ Produktseite: [Fronius Symo GEN24 Plus](https://www.fronius.com/de-ch/switzerlan
 | Merkmal                          | **Fronius Symo GEN24 Plus**          | **Huawei Sun2000 MAP0**       |
 | -------------------------------- | ------------------------------------ | ----------------------------- |
 | Frequenzregelung im Inselbetrieb | Dynamisch (50–53 Hz)                 | Fixe 50 Hz                    |
-| Backup-Umschaltzeit              | ca. 7–12 s                           | <10 ms                        |
+| Backup-Umschaltzeit              | ca. 7–12 s                           | <20 ms                        |
 | PV-Nachladung bei Blackout       | Ja                                   | Ja                            |
 | Mehrere WR im Inselbetrieb       | Ja (nur Fronius oder synchronisiert) | Ja (seit 2024 mit SmartGuard) |
 | Notstrom Versorgung              | 3phasig                              | 3phasig                       |
@@ -59,7 +59,7 @@ Produktseite: [Fronius Symo GEN24 Plus](https://www.fronius.com/de-ch/switzerlan
 ## Beispielkonfiguration im direkten Vergleich
 
 | Merkmal                                   | **Fronius Symo GEN24 Plus**                 | **Huawei Sun2000 MAP0**          |
-| ----------------------------------------- | ------------------------------------------- | -------------------------------- |
+|-------------------------------------------|---------------------------------------------|----------------------------------|
 | **WR 1**                                  |                                             |                                  |
 | Wechselrichter                            | Fronius Symo GEN24 12.0 SC Plus             | Huawei Sun2000-12k-MAP0          |
 | Max. DC Leistung                          | 18 kWp (MPPT1: 14 kWp/ MPPT2: 9 kWp)        | 22 kWp                           |
@@ -74,8 +74,12 @@ Produktseite: [Fronius Symo GEN24 Plus](https://www.fronius.com/de-ch/switzerlan
 | MPP-Spannungsbereich                      | 80 - 800V (max. 1'000 V)                    | 160 - 1'000 V (max. 1'100 V)     |
 | Anzahl MPP-Tracker / Eingänge             | 2 / 3                                       | 2 / 2                            |
 | AC Leistung                               | 5 kW                                        | 5 kW                             |
-| **Speicher / Netzumschaltbox**            |                                             |                                  |
+| **Speicher**                              |                                             |                                  |
 | Speicher                                  | BYD B-BOX Premium HVM 22.1 (22.08 kWh)      | Huawei LUNA2000-21-S1 (20.7 kWh) |
+| Abmessungen                               | 2160 x 585 x 298 mm                         | 1230 x 590 x 255 mm              |
+| Gewicht                                   | 319 kg                                      | 216 kg                           |
+| IP                                        | IP55                                        | IP66                             |
+| **Zubehör / Netzumschaltbox**             |                                             |                                  |
 | Netzumschaltbox                           | Battery Backup Box AP 63A                   | Huawei Smartguard-63A-T0         |
 | Internetverbindung                        | integriert                                  | Huawei SDongleA-05               |
 | **Kosten in CHF (April 2025) inkl. MWST** | **CHF 13'110.-**                            | **CHF 12'400.-**                 |
@@ -114,7 +118,7 @@ Produktseite: [Fronius Symo GEN24 Plus](https://www.fronius.com/de-ch/switzerlan
 ## Fazit: Flexibel vs. Integriert
 
 | Anforderung                          | Besseres System         |
-| ------------------------------------ | ----------------------- |
+|--------------------------------------|-------------------------|
 | Mehrere WR im System                 | **Fronius Symo GEN24**  |
 | Einfache Updates & Monitoring        | **Fronius Symo GEN24**  |
 | USV-Style Umschaltung bei Blackout   | **Huawei Sun2000 MAP0** |
@@ -122,6 +126,8 @@ Produktseite: [Fronius Symo GEN24 Plus](https://www.fronius.com/de-ch/switzerlan
 | Sauberes, geschlossenes Systemdesign | **Huawei Sun2000 MAP0** |
 | Günstiger Preis                      | **Huawei Sun2000 MAP0** |
 | Tiefer Geräuschpegel                 | **Huawei Sun2000 MAP0** |
+| Platzbedarf                          | **Huawei Sun2000 MAP0** |
+| Staub & Wasserschutz                 | **Huawei Sun2000 MAP0** |
 
 ---
 
