@@ -82,8 +82,8 @@ Produktseite: [Fronius Symo GEN24 Plus](https://www.fronius.com/de-ch/switzerlan
 | Schutzart                                 | IP55                                        | IP66                             |
 | **Zubehör / Netzumschaltbox**             |                                             |                                  |
 | Netzumschaltbox                           | Battery Backup Box AP 63A                   | Huawei Smartguard-63A-T0         |
-| Internetverbindung                        | integriert                                  | Huawei SDongleA-05               |
-| **Kosten in CHF (April 2025) inkl. MWST** | **CHF 13'110.-**                            | **CHF 12'400.-**                 |
+| Internetverbindung                        | integriert in WR                            | integriert in Smartguard         |
+| **Kosten in CHF (April 2025) inkl. MWST** | **CHF 13'110.-**                            | **CHF 12'340.-**                 |
 
 
 
@@ -92,7 +92,7 @@ Produktseite: [Fronius Symo GEN24 Plus](https://www.fronius.com/de-ch/switzerlan
 ### Fronius Symo GEN24 Plus + Huawei SUN2000
 
 - Huawei erkennt Fronius Inselnetz (zunächst 50 Hz) → funktioniert **kurzzeitig**
-- Fronius erhöht Frequenz bei voller Batterie → Huawei regelt ab oder schaltet ab (>51,5 Hz)
+- Fronius erhöht Frequenz bei voller Batterie → Huawei regelt ab oder schaltet ab (>51.5 Hz)
 - Inselnetz bleibt **stabil**
 
 ### Huawei SUN2000 MAP0 + Fronius Symo GEN24
@@ -109,7 +109,7 @@ Produktseite: [Fronius Symo GEN24 Plus](https://www.fronius.com/de-ch/switzerlan
 ## Firmware macht den Unterschied
 
 - **Fronius:**
-  - Alte Firmware (fro34310.upd) → WR wie Symo schalten bei >51,5 Hz ab
+  - Alte Firmware (fro34310.upd) → WR wie Symo schalten bei >51.5 Hz ab
   - Neue Firmware (fro36120.upd) → WR erkennen Inselnetz und reduzieren Einspeisung
 
 - **Huawei MAP:**
