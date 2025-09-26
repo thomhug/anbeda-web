@@ -136,15 +136,33 @@ Heute bin ich stolz, offiziell Projekte eigenständig umsetzen zu dürfen – un
     - Auswahl der Batterie (optional)
     - Auswahl Notstromsystem
     - Unterstützung beim Einreichen der Gesuche bei der Gemeinde sowie dem technischen Anschlussgesuch (TAG)
-    - Bestellung und Lieferung vom Material zu Händlerkonditionen
+    - Bestellung und Lieferung vom Material zu Händlerkonditionen +5% Marge
 
-- Angebot **Inbetriebnahme**: Pauschal CHF 1'500.-
+- Angebot **Inbetriebnahme PV**: Pauschal CHF 1'500.-
     - Verkabelung ab Modulfelder inkl. Montage/crimpen MC4 Stecker
     - Beschriftungen und vorgeschriebene Aufkleber anbringen
     - Schlusskontrolle mit obligatorischen Messungen
     - Mess- und Prüfprotokoll Photovoltaik erstellen
     - Inbetriebnahme Wechselrichter
     - Erstellen der Dokumentation
+
+- Angebot **Inbetriebnahme Batterie**: Pauschal CHF 500.-
+    - Verkabelung ab Hybrid-WR inkl. Montage/crimpen MC4 Stecker
+    - Com-Kabel anschliessen
+    - Beschriftungen und vorgeschriebene Aufkleber anbringen
+    - Schlusskontrolle mit obligatorischen Messungen
+    - Mess- und Prüfprotokoll Photovoltaik erstellen
+    - Inbetriebnahme Batterie
+    - Erstellen der Dokumentation
+
+- Angebot **Inbetriebnahme Ersatzstrom**: Pauschal CHF 500.-
+    - eingezogenes Com-Kabel anschliessen
+    - Beschriftungen und vorgeschriebene Aufkleber anbringen
+    - Inbetriebnahme Ersatzstrom, Firmwareupgrades aller Komponenten
+    - Erstellen der Dokumentation
+    - Umschalttest
+
+Anfahrt bis 30 Minuten inklusive, darüber CHF 120.-/h.
 
 Preise exkl. MWST
 
