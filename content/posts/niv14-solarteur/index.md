@@ -146,7 +146,7 @@ Heute bin ich stolz, offiziell Projekte eigenständig umsetzen zu dürfen – un
     - Inbetriebnahme Wechselrichter
     - Erstellen der Dokumentation
 
-- Angebot **Inbetriebnahme Batterie**: Pauschal CHF 500.-
+- Angebot **Inbetriebnahme Batterie**: Zusammen mit WR Pauschal CHF 500.- / Nachträglich CHF 1'000.-
     - Verkabelung ab Hybrid-WR inkl. Montage/crimpen MC4 Stecker
     - Com-Kabel anschliessen
     - Beschriftungen und vorgeschriebene Aufkleber anbringen
@@ -162,7 +162,9 @@ Heute bin ich stolz, offiziell Projekte eigenständig umsetzen zu dürfen – un
     - Erstellen der Dokumentation
     - Umschalttest
 
-Anfahrt bis 30 Minuten inklusive, darüber CHF 120.-/h.
+Anfahrt bis 30 Minuten inklusive, darüber CHF 120.-/h und Fahrspesen CHF 0.75/km.
+
+Obligatorische, externe Abnahmekontrolle PV CHF 600.-, nur Batterie CHF 300.-.
 
 Preise exkl. MWST
 
