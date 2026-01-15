@@ -10,7 +10,7 @@ WORKDIR /opt/HugoApp
 COPY . .
 
 # Run Hugo in the Workdir to generate HTML.
-RUN hugo 
+RUN hugo --gc
 
 # Stage 2
 FROM nginx:1.27-alpine
@@ -22,5 +22,8 @@ WORKDIR /usr/share/nginx/html
 # Copy HTML from previous build into the Workdir.
 COPY --from=build /opt/HugoApp/public .
 
-# Expose port 8080
-EXPOSE 8080/tcp
+# Copy custom nginx config
+COPY nginx.conf /etc/nginx/conf.d/default.conf
+
+# Expose port 80
+EXPOSE 80/tcp

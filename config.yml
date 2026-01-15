@@ -101,28 +101,10 @@ module:
   mounts:
     - source: layouts
       target: layouts
-    - source: blog
-      target: content/posts
-    - source: docs
-      target: content/docs
-    - source: images
-      target: assets/images  
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
-  asciidocExt:
-    attributes: {}
-    backend: html5
-    extensions: []
-    failureLevel: fatal
-    noHeaderOrFooter: true
-    preserveTOC: false
-    safeMode: unsafe
-    sectionNumbers: false
-    trace: false
-    verbose: false
-    workingFolderCurrent: false
   defaultMarkdownHandler: goldmark
   goldmark:
     extensions:
