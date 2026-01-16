@@ -19,9 +19,9 @@ Mein achtes PV-Projekt hat mich auf den Heinzenberg im Kanton Graubünden gefüh
 
 ## Wie es dazu kam
 
-Schon 1971 hat mein Grossvater auf dem Heinzenberg ein Ferienhaus erstellt. Entsprechend haben ich und meine Geschwister natürlich auf dem Heinzenberg Skifahren gelernt. 2014 durften wir vier Geschwister das Ferienhaus von unserem Grossvater übernehmen. Heute hat es natürlich auch eine PV Anlage drauf (google nach Haus Caprau - das sind fast 25 kWp!).
+Schon 1971 hat mein Grossvater auf dem Heinzenberg ein Ferienhaus erstellt. Entsprechend habe ich und meine Geschwister natürlich auf dem Heinzenberg Skifahren gelernt. 2014 durften wir vier Geschwister das Ferienhaus von unserem Grossvater übernehmen. Heute hat es natürlich auch eine PV Anlage drauf (google nach Haus Caprau - das sind fast 25 kWp!).
 
-Da auch meine Kinder auf dem Heinzenberg Skifahren gelernt haben und fast alle Heinzenberger Bauern Skilehrer sind, kam ich ins Gespräch mit dem Bauer. Er hatte schon länger mit dem Gedanken gespielt, auf seinem Stalldach eine PV-Anlage zu installieren. Das Süddach mit 25° Neigung bot ideale Voraussetzungen. Die bisherigen Angebote waren aber allesamt zuwenig interessant.
+Da auch meine Kinder auf dem Heinzenberg Skifahren gelernt haben und fast alle Heinzenberger Bauern Skilehrer sind, kam ich ins Gespräch mit dem Bauer. Er hatte schon länger mit dem Gedanken gespielt, auf seinem Stalldach eine PV-Anlage zu installieren. Das Süddach mit 25° Neigung bot ideale Voraussetzungen. Die bisherigen Angebote waren aber allesamt zu wenig interessant.
 
 Was den Bauer interessierte: Er wollte nicht einfach eine Anlage bauen lassen und dafür CHF 40'000+ hinblättern. Als ich ihm mein Contracting-Modell vorstellte, war er begeistert. Bei diesem Modell gehört die Anlage der anbeda AG, bis sie abbezahlt ist. Der Eigentümer zahlt den Strom zu einem vergünstigten Tarif und nach der Amortisation geht die Anlage in seinen Besitz über. So kann er von Anfang an profitieren, ohne eine grosse Investition tätigen zu müssen.
 
@@ -42,11 +42,11 @@ Nach der Planung und Bewilligung durch EWZ (ja, das Elektrizitätswerk der Stadt
 
 ![Anlagenplan](projekt8-anlagenplan.png)
 
-Die JA Solar Module mit 450W hatten die idealen Dimensionen für das Dach und eines der besten Preis-Leistungs-Verhältnisse am Markt. Mit dem Huawei Wechselrichter haben ich bereits bei mehreren Projekten gute Erfahrungen gemacht.
+Die JA Solar Module mit 450W hatten die idealen Dimensionen für das Dach und eines der besten Preis-Leistungs-Verhältnisse am Markt. Mit dem Huawei Wechselrichter habe ich bereits bei mehreren Projekten gute Erfahrungen gemacht.
 
 ## Montage
 
-Die Montage der Panels hat der Bauer mit Kollegen (u.a. ein ehemaliger Dachdecker!) zwischen dem 11. September und 2. Oktober 2025 durchgeführt. Da es für Laien nicht erlaubt ist, die Verkabelung zum Wechselrichter zu machen, habe ich, nach dem die Unterkonstruktion fertig war, alles verkabelt. Zum Glück ist Wetter im Bündner Herbst oft gnädig - an den meisten Tagen hatten herrschte Sonnenschein, fast mit Ausnahme auf dem folgenden Bild:
+Die Montage der Panels hat der Bauer mit Kollegen (u.a. ein ehemaliger Dachdecker!) zwischen dem 11. September und 2. Oktober 2025 durchgeführt. Da es für Laien nicht erlaubt ist, die Verkabelung zum Wechselrichter zu machen, habe ich, nachdem die Unterkonstruktion fertig war, alles verkabelt. Zum Glück ist das Wetter im Bündner Herbst oft gnädig - an den meisten Tagen herrschte Sonnenschein, fast mit Ausnahme auf dem folgenden Bild:
 
 ![Abschluss Modulmontage](projekt8-module.jpeg)
 
