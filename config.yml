@@ -39,6 +39,10 @@ menu:
 params:
   env: production
   title: "anbeda.ch - Solar"
+  label:
+    text: "anbeda AG - rund um Solar"
+    icon: /logo-header.png
+    iconHeight: 35
   keywords: [solar, pv, pvbuddies, balkonsolar, selbstbau, diy]
   description: "Solar Blog mit Erfahrungen rund um Photovoltaik Selbstbau, Balkonsolar, Visualisierungen, Berechnungen, Energiesparen und was man noch alles so cooles tun kann :)"
   defaultTheme: auto # to switch between dark or light according to browser theme
