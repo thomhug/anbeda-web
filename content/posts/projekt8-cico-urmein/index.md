@@ -71,11 +71,20 @@ Die Werte sind sehr gut und zeigen, dass beide Strings sauber arbeiten.
 
 ## Eigenverbrauch
 
-Was mich bei diesem Projekt besonders freut: Der Grundverbrauch von ca. 1 kW hat. Das bedeutet, dass rund um die Uhr Strom verbraucht wird - ideal für eine hohe Eigenverbrauchsquote.
+Was mich bei diesem Projekt besonders freut: Die hohe Grundlast durch die Gefriertruhen bedeutet, dass rund um die Uhr Strom verbraucht wird - ideal für eine hohe Eigenverbrauchsquote.
 
-Im vierten Quartal 2025 haben wir bereits einen Eigenverbrauch von ca. 30% erreicht. Im Sommer, wenn die Tage länger sind und die Produktion höher, rechne ich mit 40% oder mehr.
+### Erste Zahlen aus Q4 2025
 
-Bei einem erwarteten Jahresertrag von knapp 20'000 kWh und einem Eigenverbrauch von 35% (konservativ geschätzt) sind das 7'000 kWh, die nicht ins Netz eingespeist werden müssen. Bei einem Strompreis von ca. 25 Rp/kWh entspricht das einer jährlichen Einsparung von CHF 1'750.
+Bei der Planung sind wir von 2'500 - 3'100 kWh Produktion im Q4 ausgegangen. Tatsächlich produziert hat die Anlage **3'540 kWh** - besser als erwartet!
+
+Der Verbrauch im selben Zeitraum lag bei 3'275 kWh, davon wurden 1'108 kWh direkt von der PV-Anlage gedeckt. Das entspricht einer **Eigenverbrauchsquote von 33.8%**.
+
+Noch eindrücklicher ist der Vergleich des Netzbezugs:
+- **Mai - September** (vor PV): 40.3 kWh/Tag
+- **Oktober - Dezember** (mit PV): 25.3 kWh/Tag
+- **Reduktion: 37% weniger Netzbezug**
+
+Die Gefriertruhen brauchen im Winter vermutlich etwas weniger Strom, was die "nur" 33.8% Eigenverbrauch erklärt. Im Sommer erwarte ich deutlich höhere Werte - mehr PV-Ertrag trifft auf höheren Kühlbedarf.
 
 ## Learnings
 
