@@ -1,0 +1,18 @@
+<footer class="post-footer">
+<nav class="paginav">
+  {{ with .Get "prev" }}
+  <a class="prev" href="{{ . }}">
+    <span class="title">« Zurück</span>
+    <br>
+    <span>{{ $.Get "prev-title" }}</span>
+  </a>
+  {{ end }}
+  {{ with .Get "next" }}
+  <a class="next" href="{{ . }}">
+    <span class="title">Weiter »</span>
+    <br>
+    <span>{{ $.Get "next-title" }}</span>
+  </a>
+  {{ end }}
+</nav>
+</footer>

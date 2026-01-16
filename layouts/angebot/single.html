@@ -1,0 +1,48 @@
+{{- define "main" }}
+
+<article class="post-single">
+  <header class="post-header">
+    {{ partial "breadcrumbs.html" . }}
+    <h1 class="post-title entry-hint-parent">
+      {{ .Title }}
+    </h1>
+    {{- if .Description }}
+    <div class="post-description">
+      {{ .Description }}
+    </div>
+    {{- end }}
+  </header>
+  {{- $isHidden := (.Param "cover.hiddenInSingle") | default (.Param "cover.hidden") | default false }}
+  {{- partial "cover.html" (dict "cxt" . "IsSingle" true "isHidden" $isHidden) }}
+
+  {{- if .Content }}
+  <div class="post-content">
+    {{- if not (.Param "disableAnchoredHeadings") }}
+    {{- partial "anchored_headings.html" .Content -}}
+    {{- else }}{{ .Content }}{{ end }}
+  </div>
+  {{- end }}
+
+  <footer class="post-footer">
+    {{- with .Params.navlinks }}
+    <nav class="paginav">
+      {{- with .prev }}
+      <a class="prev" href="{{ .url }}">
+        <span class="title">« Zurück</span>
+        <br>
+        <span>{{ .title }}</span>
+      </a>
+      {{- end }}
+      {{- with .next }}
+      <a class="next" href="{{ .url }}">
+        <span class="title">Weiter »</span>
+        <br>
+        <span>{{ .title }}</span>
+      </a>
+      {{- end }}
+    </nav>
+    {{- end }}
+  </footer>
+</article>
+
+{{- end }}{{/* end main */}}

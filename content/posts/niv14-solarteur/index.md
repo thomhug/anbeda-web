@@ -45,7 +45,7 @@ Nach Dutzenden von Stunden und Iterationen sieht mein Dashboard inzwischen etwas
 
 Irgendwann war alles gemonitort was man monitoren konnte und ich wollte mehr Panels. Nur war das Problem, dass es damals in der Schweiz Plug & Play Balkonsolaranlagen ab CHF 1'200.- zu kaufen gab, welche in Deutschland nur EUR 500 gekostet haben. Das kann doch nicht sein, dachte ich mir und fing an zu recherchieren. Relativ schnell wurde mir klar, dass der einzige Weg über die Distributoren laufen muss. Aber damals immer noch im Solar-Hype konnte man nicht einfach mit einer Firma einen Händlerzugang beantragen, nein, es musste eine Solarfirma sein! Nun, während einer kurzen Auszeit bei meiner Firma [Nine Internet Solutions AG](https://nine.ch) hatte ich 2017 die [anbeda AG](https://anbeda.ch) in Zug gegründet und unter anderem eine Buchhaltungssoftware programmiert, die niemand kaufen wollte. Nun gut, also weg mit dem Buchhaltungszeug und her musste eine Solar-Beratungs-Webseite! Wunderbar, nur wenige Tage später hatte ich meine Händlerzugänge bei Krannich Solar, Solarmarkt sowie Otto Fischer. Teilweise wurde ich aber zuerst abgewiesen und musste dann regelrecht betteln und auf meinen Elektroingenieur ETH Abschluss hinweisen!
 
-Von da an war es passiert: Die ersten Recherchen im Onlineshop fühlten sich an wie ein Aufenthalt im Schlaraffenland! Alles war EXTREM BILLIG!!! Unglaublich. 35-50% hatte mein Solarbauer auf die Produkte draufgeschlagen. Das hat mich ziemlich getriggert und ich wollte nicht, dass andere auch zu viel bezahlten für ihre Solaranlagen. 
+Von da an war es passiert: Die ersten Recherchen im Onlineshop fühlten sich an wie ein Aufenthalt im Schlaraffenland! Alles war EXTREM BILLIG!!! Unglaublich. 35-50% hatte mein Solarbauer auf die Produkte draufgeschlagen. Das hat mich ziemlich getriggert und ich wollte nicht, dass andere auch zu viel bezahlten für ihre Solaranlagen.
 
 ![alt text](erste-panels.jpeg)
 
@@ -98,6 +98,7 @@ Die Prüfung besteht aus einem schriftlichen, einem mündlichen und einem prakti
 ![Messgeräte und Taschenrechner für die ESTI Prüfung](pruefungsausruestung.jpeg)
 
 Folgende Messgeräte habe ich mir angeschafft:
+
 - PV DC Messgerät PV1-1+ von Benning, CHF 1'600.-
 - Amperezange CC3 von Benning, CHF 160.-
 - AC Installationstester IT 105 von Benning, CHF 780.-
@@ -108,6 +109,7 @@ Total Messgeräte: CHF 2'600.-
 ## Kostenübersicht Kurse & Prüfungen
 
 Wenn wir gerade bei Ausgaben sind:
+
 - Kurskosten STFW, CHF 5'150.-
 - STFW Prüfungsgebühr, CHF 250.-
 - Prüfung NIV14 beim ESTI CHF 1'230.-
@@ -122,50 +124,6 @@ Total Kurse & Prüfungen: CHF 7'090.-
 ![ESTI Verzeichnis von Bewilligungen in der Schweiz](esti-verzeichnis.png)
 (Quelle: [https://verzeichnisse.esti.ch/de/niv12-res.htm](https://verzeichnisse.esti.ch/de/niv12-res.htm))
 
-
 ## Fazit
 
-Heute bin ich stolz, offiziell Projekte eigenständig umsetzen zu dürfen – und freue mich schon auf viele weitere Solarprojekte! Meldet euch bei mir, falls ihr Hilfe benötigt beim Selbstbau!
-
-## Angebot Selbstbau
-
-- Angebot **Planung und Beratung**: Pauschal CHF 2'000.-
-    - Erstellen oder überprüfen von einem Dachplan
-    - Erstellen oder überprüfen vom Stringplan
-    - Auslegung der Wechselrichter, Komponentenwahl
-    - Auswahl der Batterie (optional)
-    - Auswahl Notstromsystem
-    - Unterstützung beim Einreichen der Gesuche bei der Gemeinde sowie dem technischen Anschlussgesuch (TAG)
-    - Bestellung und Lieferung vom Material zu Händlerkonditionen +5% Marge
-
-- Angebot **Inbetriebnahme PV**: Pauschal CHF 1'500.-
-    - Verkabelung ab Modulfelder inkl. Montage/crimpen MC4 Stecker
-    - Beschriftungen und vorgeschriebene Aufkleber anbringen
-    - Schlusskontrolle mit obligatorischen Messungen
-    - Mess- und Prüfprotokoll Photovoltaik erstellen
-    - Inbetriebnahme Wechselrichter
-    - Erstellen der Dokumentation
-
-- Angebot **Inbetriebnahme Batterie**: Zusammen mit WR Pauschal CHF 500.- / Nachträglich CHF 1'000.-
-    - Verkabelung ab Hybrid-WR inkl. Montage/crimpen MC4 Stecker
-    - Com-Kabel anschliessen
-    - Beschriftungen und vorgeschriebene Aufkleber anbringen
-    - Schlusskontrolle mit obligatorischen Messungen
-    - Mess- und Prüfprotokoll Photovoltaik erstellen
-    - Inbetriebnahme Batterie
-    - Erstellen der Dokumentation
-
-- Angebot **Inbetriebnahme Ersatzstrom**: Pauschal CHF 500.-
-    - eingezogenes Com-Kabel anschliessen
-    - Beschriftungen und vorgeschriebene Aufkleber anbringen
-    - Inbetriebnahme Ersatzstrom, Firmwareupgrades aller Komponenten
-    - Erstellen der Dokumentation
-    - Umschalttest
-
-Anfahrt bis 30 Minuten inklusive, darüber CHF 120.-/h und Fahrspesen CHF 0.75/km.
-
-Obligatorische, externe Abnahmekontrolle PV CHF 600.-, nur Batterie CHF 300.-.
-
-Preise exkl. MWST
-
-Meldet euch bei Interesse am einfachsten via [LinkedIn](https://www.linkedin.com/in/thomas-hug/), andere Social Media oder Mail tom at die Domain oben.
+Heute bin ich stolz, offiziell Projekte eigenständig umsetzen zu dürfen – und freue mich schon auf viele weitere Solarprojekte! Meldet euch bei mir, falls ihr Hilfe benötigt beim Selbstbau! Hier geht es zu meinem [Angebot](/angebot/)!
