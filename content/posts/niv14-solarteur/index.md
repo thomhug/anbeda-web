@@ -1,6 +1,6 @@
 ---
 title: "Mein Weg zum Hobby Solarteur mit Betriebsbewilligung nach NIV Art. 14 (NIV14)"
-description: "Wie ich über das bauen lassen einer eigenen Photovoltaikanlage zum Selbstbau gekommen bin und warum ich mich durch 19 Tage Kurs gequält habe um schlussendlich zugelassen zu werden um die Prüfung beim Starkstominspektorat ESTI abzulegen, damit ich offiziell Stecker crimpen darf."
+description: "Wie ich über das bauen lassen einer eigenen Photovoltaikanlage zum Selbstbau gekommen bin und warum ich mich durch 19 Tage Kurs gequält habe um schlussendlich zugelassen zu werden um die Prüfung beim Starkstrominspektorat ESTI abzulegen, damit ich offiziell Stecker crimpen darf."
 draft: false
 date: 2025-04-26T07:21:39+02:00
 tags: ["diy","pvbuddies"]
@@ -27,7 +27,7 @@ Frühling 2022 war vermutlich der ungünstigste Zeitpunkt um eine PV Anlage zu b
 
 ## Die Zusammenarbeit
 
-Die in die Länge gezogene Bauzeit hatte den Vorteil, dass ich näher am Bau dabei sein konnte und mich sogar eingemischt habe, als ich selber einen Wechselrichter besorgt habe, da der Distributor vom Solarteur nicht liefern konnte, resp. ende Oktober 2022 der Liefertermin ab Mai 2023 in Aussicht gestellt wurde.
+Die in die Länge gezogene Bauzeit hatte den Vorteil, dass ich näher am Bau dabei sein konnte und mich sogar eingemischt habe, als ich selber einen Wechselrichter besorgt habe, da der Distributor vom Solarteur nicht liefern konnte, resp. Ende Oktober 2022 der Liefertermin ab Mai 2023 in Aussicht gestellt wurde.
 
 Mein Fazit war, dass der Solarteur nichts von AC (AC = Wechselstrom) verstand, der Elektriker nichts von DC (DC = Gleichstrom) und Dächern wissen wollte und beide keine Ahnung von IT hatten. Aus IT Sicht ist ein Wechselrichter ein weiteres Gerät im Heimnetzwerk mit einer IP Adresse und entweder einem RESTful API über http oder etwas altertümlicher Modbus TCP. Möchte man Geräte mit Modubus RTU auslesen wie z.B. Zähler, ist man mit einem Raspberry Pi und einem CHF 1.- günstigen USB Adapter auch schon dabei. Natürlich spielten mir 25 Jahre Erfahrung im Betrieb von IT Systemen bei meiner Firma [Nine](https://nine.ch) mit Linux in die Hände.
 
@@ -37,15 +37,15 @@ Durch meinen IT Hintergrund habe ich mich also erstmals auf das Monitoring der A
 
 ![Die Anfänge mit Monitoring: Grafana & RRD Tool](monitoring-beginner.jpeg)
 
-Nach duzenden von Stunden und Iterationen sieht mein Dashboard inzwischen etwas hübscher aus! Mehr Infos und Bauanleitungen dazu findet ihr in meinem [GitHub](https://github.com/thomhug/pv/) Repo.
+Nach Dutzenden von Stunden und Iterationen sieht mein Dashboard inzwischen etwas hübscher aus! Mehr Infos und Bauanleitungen dazu findet ihr in meinem [GitHub](https://github.com/thomhug/pv/) Repo.
 
 ![PV Dashboard](pv-dashboard.png)
 
 ## Händlerzugang
 
-Irgendwann war alles gemonitort was man monitoren konnte und ich wollte mehr Panels. Nur war das Problem, dass es damals in der Schweiz Plug & Play Balkonsolaranlagen ab CHF 1'200.- zu kaufen gab, welche in Deutschland nur EUR 500 gekostet haben. Das kann doch nicht sein, dachte ich mir und fing an zu recherchieren. Relativ schnell wurde mir klar, dass er einzige Weg über die Distributoren laufen muss. Aber damals immer noch im Solar-Hype konnte man nicht einfach mit einer Firma einen Händlerzugang beantragen, nein, es musste eine Solarfirma sein! Nun, während einer kurzen Auszeit bei meiner Firma [Nine Internet Solutions AG](https://nine.ch) hatte ich 2017 die [anbeda AG](https://anbeda.ch) in Zug gegründet und unter anderem eine Buchhaltungssoftware programmiert, die niemand kaufen wollte. Nun gut, also weg mit dem Buchhaltungszeug und her musste eine Solar-Beratungs-Webseite! Wunderbar, nur wenige Tage später hatte ich meine Händlerzugänge bei Krannich Solar, Solarmarkt sowie Otto Fischer. Teilweise wurde ich aber zuerst abgewiesen und musste dann regelrecht betteln und auf meinen Elektroingenieur ETH Abschluss hinweisen!
+Irgendwann war alles gemonitort was man monitoren konnte und ich wollte mehr Panels. Nur war das Problem, dass es damals in der Schweiz Plug & Play Balkonsolaranlagen ab CHF 1'200.- zu kaufen gab, welche in Deutschland nur EUR 500 gekostet haben. Das kann doch nicht sein, dachte ich mir und fing an zu recherchieren. Relativ schnell wurde mir klar, dass der einzige Weg über die Distributoren laufen muss. Aber damals immer noch im Solar-Hype konnte man nicht einfach mit einer Firma einen Händlerzugang beantragen, nein, es musste eine Solarfirma sein! Nun, während einer kurzen Auszeit bei meiner Firma [Nine Internet Solutions AG](https://nine.ch) hatte ich 2017 die [anbeda AG](https://anbeda.ch) in Zug gegründet und unter anderem eine Buchhaltungssoftware programmiert, die niemand kaufen wollte. Nun gut, also weg mit dem Buchhaltungszeug und her musste eine Solar-Beratungs-Webseite! Wunderbar, nur wenige Tage später hatte ich meine Händlerzugänge bei Krannich Solar, Solarmarkt sowie Otto Fischer. Teilweise wurde ich aber zuerst abgewiesen und musste dann regelrecht betteln und auf meinen Elektroingenieur ETH Abschluss hinweisen!
 
-Von da an war es passiert: Die ersten Recherchen im Onlineshop fühlten sich an wie ein Aufenthalt im Schlaraffenland! Alles war EXTREM BILLIG!!! Unglaublich. 35-50% hatte mein Solarbauer auf die Produkte draufgeschlagen. Das hat mich ziemlich getriggert und ich wollte nicht, dass andere auch zuviel bezahlten für ihre Solaranlagen. 
+Von da an war es passiert: Die ersten Recherchen im Onlineshop fühlten sich an wie ein Aufenthalt im Schlaraffenland! Alles war EXTREM BILLIG!!! Unglaublich. 35-50% hatte mein Solarbauer auf die Produkte draufgeschlagen. Das hat mich ziemlich getriggert und ich wollte nicht, dass andere auch zu viel bezahlten für ihre Solaranlagen. 
 
 ![alt text](erste-panels.jpeg)
 

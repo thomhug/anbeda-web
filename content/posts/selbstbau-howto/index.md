@@ -22,7 +22,7 @@ Wichtig zu wissen: Ich fokussiere mich immer auf Flachdächer. Viele Erfahrungen
 
 ## Schritt 1: Ausmessen
 
-Um eine PV Anlage zu planen, musst du genau wissen wie gross dein Dach ist und wo allfällige Hindernisse sind. Nicht alle Hindernisse verhindern schlussendlich die Platzierung von Panels! Z.B. die Entlüfung der Abwasserleitung kann auch etwas gekürzt werden. Also notiere dir auch, wie hoch die jeweiligen Hindernisse sind. Um dir den Abmessungen von allfälligen Plänen sicher zu sein, ist es unumgänglich, auf dem Dach selber zu messen. Am besten machst du auch gleich viele Fotos.
+Um eine PV Anlage zu planen, musst du genau wissen wie gross dein Dach ist und wo allfällige Hindernisse sind. Nicht alle Hindernisse verhindern schlussendlich die Platzierung von Panels! Z.B. die Entlüftung der Abwasserleitung kann auch etwas gekürzt werden. Also notiere dir auch, wie hoch die jeweiligen Hindernisse sind. Um dir den Abmessungen von allfälligen Plänen sicher zu sein, ist es unumgänglich, auf dem Dach selber zu messen. Am besten machst du auch gleich viele Fotos.
 
 Ein super Beispiel von einem guten Plan ist der folgende. Da fehlen nur noch die Höhenangaben der Hindernisse.
 
@@ -42,7 +42,7 @@ Als Module könnt ihr von Trina Solar Energy das TSM-435NEG9R.29 (Vertex S+) wä
 
 Am Schluss könnt ihr ein schönes PDF erstellen lassen mit allen Infos inkl. Belastungsplan.
 
-Falls an einem Ort ein Hindernis im Weg ist, löscht K2 immer zwei Module weg. In der Praxis ist es auch möglich, nur ein einzelnes Modul wegzulassen. Dafür benötigt man die gleichen Teile der Unterkonstruktion mit Ausnahme der Klemmen. Da brauchts dann statt 4x MC (Mittelklemme) einfach 4x EC (Endklemme). Ich bestelle mir da jeweils noch einen Windbreaker Short von S-Dome, damit die offene D-Dome Hälfte vor Wind geschützt bleibt. Die ganze Statikberechnung von K2 ist dadurch natürlich ungültig und ihr sollt wissen was ihr tut!
+Falls an einem Ort ein Hindernis im Weg ist, löscht K2 immer zwei Module weg. In der Praxis ist es auch möglich, nur ein einzelnes Modul wegzulassen. Dafür benötigt man die gleichen Teile der Unterkonstruktion mit Ausnahme der Klemmen. Da brauchts dann statt 4x MC (Mittelklemme) einfach 4x EC (Endklemme). Ich bestelle mir da jeweils noch einen Windbreaker Short von S-Dome, damit die offene D-Dome Hälfte vor Wind geschützt bleibt. Die ganze Statikberechnung von K2 ist dadurch natürlich ungültig und ihr solltet wissen was ihr tut!
 
 Mit der Anzahl Module mal die Leistung (aktuell im Oktober 2023 sind 440W die am meisten erhältlichen Panels) bekommt ihr die DC-Leistung, z.B. 20x 440 Wp = 8.8 kWp.
 
@@ -76,7 +76,7 @@ Wenn der Wechselrichter ausgewählt ist sowie Modulleistung und Anzahl, dann ist
 
 ## Schritt 6: Warten und Subventionsanträge
 
-Nun gilt es auf die Bewilligung der Gmeinde und diejenige vom EVU für das TAG zu warten. Sollte deine Gemeinde oder der Kanton neben den Subventionen vom Bund (müssen bei kleineren Anlagen nicht im Voraus beantragt werden) ebenfalls Subventionen bezahlt werden (im Kanton Zug ist das z.B. der Fall!), dann muss dies mindestens in Zug vor Baubegin beantragt werden.
+Nun gilt es auf die Bewilligung der Gemeinde und diejenige vom EVU für das TAG zu warten. Sollte deine Gemeinde oder der Kanton neben den Subventionen vom Bund (müssen bei kleineren Anlagen nicht im Voraus beantragt werden) ebenfalls Subventionen bezahlt werden (im Kanton Zug ist das z.B. der Fall!), dann muss dies mindestens in Zug vor Baubeginn beantragt werden.
 
 ## Schritt 7: Vorbereitungen Dach - Spengler
 
@@ -136,7 +136,7 @@ Aber hey! Nach dem Knopfdruck beim bestellen überlässt euch vielleicht der Ele
 
 Wenn der AC und DC Teil fertig sind, erstellt euch der Elektriker und je nach Fähigkeiten vom Elektriker noch der Solarbauer einen Sicherheitsnachweis (SiNa) aus. Dieser wird dann von einer unabhängigen Kontrollinstanz vor Ort überprüft und zusätzlich werden mit einer Drohne noch Fotos vom Dach gemacht, damit die Behörden die Module nachzählen können bevor sie die Subventionen ausbezahlen.
 
-Im Fall der Schweiz ist das die Pronovo, bei welcher Ihr nun den Antrag für die Subventionen stellen könnt via Online Formular. Per Oktober 2023 lohnt sich das, denn es werden 350.-/kWp ausbezahlt! Die Bemessungsgrundlage ist glücklierweise die Leistung und nicht etwa der Kaufpreis, denn damit hätte man im DIY Fall Nachteile!
+Im Fall der Schweiz ist das die Pronovo, bei welcher Ihr nun den Antrag für die Subventionen stellen könnt via Online Formular. Per Oktober 2023 lohnt sich das, denn es werden 350.-/kWp ausbezahlt! Die Bemessungsgrundlage ist glücklicherweise die Leistung und nicht etwa der Kaufpreis, denn damit hätte man im DIY Fall Nachteile!
 
 ## Schritt 15: Monitoring
 
