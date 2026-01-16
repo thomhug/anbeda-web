@@ -16,18 +16,26 @@
 {{ $large := "" }}
 
 {{- with $img -}}
-{{ if eq $orientation 1 }}
-  {{- $large = $img.Resize "1200x" -}}
-  {{ $medium = $img.Resize "980x" -}}
-  {{ $small = $img.Resize "420x" -}}
-{{ else if eq $orientation 6 }}
-  {{- $large = $img.Resize "1200x r270" -}}
-  {{ $medium = $img.Resize "980x r270" -}}
-  {{ $small = $img.Resize "420x r270" -}}
+{{ $rotate := "" }}
+{{ if eq $orientation 6 }}
+  {{ $rotate = " r270" }}
 {{ else if eq $orientation 8 }}
-  {{- $large = $img.Resize "1200x r90" -}}
-  {{ $medium = $img.Resize "980x r90" -}}
-  {{ $small = $img.Resize "420x r90" -}}
+  {{ $rotate = " r90" }}
+{{ end }}
+{{ if ge $img.Width 1200 }}
+  {{- $large = $img.Resize (printf "1200x%s" $rotate) -}}
+{{ else }}
+  {{- $large = $img -}}
+{{ end }}
+{{ if ge $img.Width 980 }}
+  {{- $medium = $img.Resize (printf "980x%s" $rotate) -}}
+{{ else }}
+  {{- $medium = $img -}}
+{{ end }}
+{{ if ge $img.Width 420 }}
+  {{- $small = $img.Resize (printf "420x%s" $rotate) -}}
+{{ else }}
+  {{- $small = $img -}}
 {{ end }}
 
 <figure class="image-caption">
