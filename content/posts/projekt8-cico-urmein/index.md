@@ -15,7 +15,7 @@ cover:
 
 ## Übersicht
 
-Mein achtes PV-Projekt hat mich auf den Heinzenberg im Kanton Graubünden geführt. In der kleinen Gemeinde Urmein durfte ich zusammen mit einem Bauer eine 18.9 kWp Anlage auf seinem Stallgebäude realisieren. Das Besondere an diesem Projekt: Das Wohnhaus daneben mit dem B&B hat u.a. wegen diversen Gefriertruhen eine Grundlast von etwas über 1 kW - perfekte Voraussetzungen für einen hohen Eigenverbrauchsanteil.
+Mein achtes PV-Projekt (nach der NIV14 Bewilligung - total wäre es da 20.) hat mich auf den Heinzenberg im Kanton Graubünden geführt. In der kleinen Gemeinde Urmein durfte ich zusammen mit einem Bauer eine 18.9 kWp Anlage auf seinem Stallgebäude realisieren. Das Besondere an diesem Projekt: Das Wohnhaus daneben mit dem B&B hat u.a. wegen diversen Gefriertruhen eine Grundlast von etwas über 1 kW - perfekte Voraussetzungen für einen hohen Eigenverbrauchsanteil.
 
 ## Wie es dazu kam
 
@@ -46,7 +46,7 @@ Die JA Solar Module mit 450W hatten die idealen Dimensionen für das Dach und ei
 
 ## Montage
 
-Die Montage der Panels hat der Bauer mit Kollegen (u.a. ein ehemaliger Dachdecker!) zwischen dem 11. September und 2. Oktober 2025 durchgeführt. Da es für Laien nicht erlaubt ist, die Verkabelung zum Wechselrichter zu machen, habe ich, nachdem die Unterkonstruktion fertig war, alles verkabelt. Zum Glück ist das Wetter im Bündner Herbst oft gnädig - an den meisten Tagen herrschte Sonnenschein, fast mit Ausnahme auf dem folgenden Bild:
+Die Montage der Panels hat der Bauer mit Kollegen (u.a. ein ehemaliger Dachdecker!) zwischen dem 11. September und 2. Oktober 2025 durchgeführt. Da es für Laien nicht erlaubt ist, die Verkabelung zum Wechselrichter zu machen, habe ich als Bewilligungsträger nach NIV Art. 14, nachdem die Unterkonstruktion fertig war, alles verkabelt. Zum Glück ist das Wetter im Bündner Herbst oft gnädig - an den meisten Tagen herrschte Sonnenschein, fast mit Ausnahme auf dem folgenden Bild:
 
 ![Abschluss Modulmontage](projekt8-module.jpeg)
 
@@ -54,7 +54,7 @@ Eine besondere Herausforderung war die Kabellänge: Der Wechselrichter wurde an 
 
 ![Wechselrichter Montage](projekt8-wr.jpg)
 
-Am 2. Oktober 2025 konnte die Anlage dann erfolgreich in Betrieb genommen werden.
+Am 2. Oktober 2025 konnte ich die Anlage dann erfolgreich in Betrieb nehmen.
 
 {{< youtube mUOA_S-mYKY >}}
 
