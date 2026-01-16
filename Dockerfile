@@ -9,8 +9,11 @@ WORKDIR /opt/HugoApp
 # Copy Hugo config into the container Workdir.
 COPY . .
 
+# Build argument for baseURL (can be overridden at build time)
+ARG HUGO_BASEURL="https://www.anbeda.ch"
+
 # Run Hugo in the Workdir to generate HTML.
-RUN hugo --gc
+RUN hugo --gc --baseURL="${HUGO_BASEURL}"
 
 # Stage 2
 FROM nginx:1.27-alpine
