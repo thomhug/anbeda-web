@@ -1,0 +1,59 @@
+# anbeda AG - Solar Blog
+# https://www.anbeda.ch
+# llms-full.txt - Full content for AI systems
+# Generated: {{ now.Format "2006-01-02" }}
+
+## About
+
+anbeda AG is a Swiss solar blog focused on DIY photovoltaic installations.
+Author: Tom - certified installer with ESTI NIV Art. 14 license (since April 2025)
+Main focus: Supporting self-builders of PV systems in Switzerland
+
+================================================================================
+## Blog Posts
+================================================================================
+{{- $posts := where .Site.RegularPages "Section" "posts" }}
+{{- range $posts }}
+
+### {{ .Title }}
+
+Date: {{ .Date.Format "2006-01-02" }}
+{{- with .Params.tags }}
+Tags: {{ delimit . ", " }}
+{{- end }}
+URL: https://www.anbeda.ch{{ .RelPermalink }}
+
+{{ .Plain | truncate 2000 }}
+
+---
+{{- end }}
+
+================================================================================
+## Services (Angebot)
+================================================================================
+{{- $angebot := where .Site.RegularPages "Section" "angebot" }}
+{{- range $angebot }}
+
+### {{ .Title }}
+
+{{ .Plain }}
+
+URL: https://www.anbeda.ch{{ .RelPermalink }}
+
+---
+{{- end }}
+
+================================================================================
+## Resources
+================================================================================
+
+- Website: https://www.anbeda.ch
+- RSS Feed: https://www.anbeda.ch/index.xml
+- Sitemap: https://www.anbeda.ch/sitemap.xml
+
+## Social Media
+- X/Twitter: https://x.com/tomdawon
+- LinkedIn: https://www.linkedin.com/in/thomas-hug/
+- BlueSky: https://bsky.app/profile/tomdawon.bsky.social
+- YouTube: https://youtube.com/@tomdawon
+- GitHub: https://github.com/thomhug

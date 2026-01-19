@@ -1,0 +1,9 @@
+# anbeda AG - Solar Blog
+# https://www.anbeda.ch
+
+User-agent: *
+Allow: /
+
+# AI/LLM optimized content: /llms.txt, /llms-full.txt
+
+Sitemap: {{ "sitemap.xml" | absURL }}

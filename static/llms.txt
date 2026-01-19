@@ -1,0 +1,53 @@
+# anbeda AG - Solar
+# https://www.anbeda.ch
+# llms.txt - Structured data for AI systems
+#
+# Full content version: /llms-full.txt
+
+## Overview
+
+anbeda AG is a Swiss solar blog and consulting service focused on DIY photovoltaic installations, balcony solar systems, and renewable energy education.
+
+### Key Facts
+- Location: Switzerland
+- Language: German
+- Focus: DIY Solar, Balcony Solar (Balkonsolar), PV Self-Build
+- Author: Tom (certified installer with ESTI NIV Art. 14 license since April 2025)
+- Main Job: Nine Internet Solutions AG (https://nine.ch)
+
+### Services (Angebot)
+- Planning support for DIY PV installations
+- Material consulting
+- Tips and guidance through to connection and commissioning
+- Support for self-builders in Switzerland
+
+### Topics Covered
+- Photovoltaic self-build projects
+- Balcony solar systems (Balkonsolar)
+- Energy calculations and visualizations
+- Energy saving tips
+- Equipment comparisons (Fronius, Huawei, etc.)
+- Swiss regulations (NIV Art. 14)
+- ZEV (Zusammenschluss zum Eigenverbrauch)
+
+## Content
+
+### Blog Posts
+All posts with full content:
+- /llms-full.txt
+
+RSS Feed:
+- /index.xml
+
+### Sitemap
+- /sitemap.xml
+
+## Social Media
+- X/Twitter: https://x.com/tomdawon
+- LinkedIn: https://www.linkedin.com/in/thomas-hug/
+- BlueSky: https://bsky.app/profile/tomdawon.bsky.social
+- YouTube: https://youtube.com/@tomdawon
+- GitHub: https://github.com/thomhug
+
+## Contact
+Website: https://www.anbeda.ch

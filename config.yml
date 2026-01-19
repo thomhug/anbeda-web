@@ -170,4 +170,12 @@ outputs:
     - HTML
     - RSS
     - JSON
+    - llms-full
+
+outputFormats:
+  llms-full:
+    baseName: llms-full
+    isPlainText: true
+    mediaType: text/plain
+    notAlternative: true
 
